@@ -44,4 +44,8 @@ OpenCV
 Tesseract OCR
 
 
+## Disclaimer
 
+This project is provided "as is" without any warranties or guarantees of any kind. We do not assume any responsibility or liability for the accuracy, reliability, or usefulness of the information provided in this repository. We do not represent any specific viewpoints or take any particular stance.
+
+If you encounter any issues or have concerns, please use the Issues section to contact us.
