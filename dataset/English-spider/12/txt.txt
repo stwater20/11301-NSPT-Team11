@@ -1,0 +1,37 @@
+Giant leak reveals Chinese infosec vendor I-Soon is one of Beijing's cyber-attackers for hire
+8 comment bubble on white
+Trove reveals RATs that can pop major OSes, campaigns against offshore and local targets
+A cache of stolen documents posted to GitHub appears to reveal how a Chinese infosec vendor named I-Soon offers rent-a-hacker services for Beijing.
+
+The trove appeared on GitHub last week and contains hundreds of documents documenting I-Soon's activities.
+
+Analysis of the docs by infosec vendor SentinelOne characterizes I-Soon as "a company who competes for low-value hacking contracts from many government agencies."
+
+SentinelOne and Malwarebytes found I-Soon claims to have developed tools capable of compromising devices running Linux, Windows, macOS, iOS, and Android. The Android attack code can apparently retrieve and send a user's entire messaging history from Chinese chat apps, plus Telegram.
+
+The Chinese crew claimed to have cracked government departments in India, Thailand, Vietnam, South Korea, and of having accessed a NATO system.
+
+Other material appears to see I-Soon bid for work in Xinjiang – a province in which Beijing persecutes the Muslim Uyghur population – by claiming to have run anti-terrorist ops in Pakistan and Afghanistan.
+
+Some of the leaked docs describe hardware hacking devices I-Soon employs – including a poisoned power bank that uploads data into victims' machines.
+
+China could be doing better at censorship, think tank finds
+Volt Typhoon not the only Chinese crew lurking in US energy, critical networks
+Uncle Sam designates more Chinese tech slingers as military collaborators
+China loathes AirDrop so much it's publicized an old flaw in Apple's P2P protocol
+According to Risky.biz, some of the leaked docs detail an exchange between I-Soon staff as they ponder whether it is possible to get details of exploits found during the Tianfu Cup – a Chinese hacking contest modeled on Pwn2Own.
+
+Infosec luminary Brian Krebs's take on another document is that it describes how I-Soon has "various 'clients' that appear to be different Chinese government agencies seeking access to foreign government systems."
+
+Those clients "supply a list of targets they're interested in, and there appears to be something of a competitive industry that has sprung up to gain the access requested." That industry pays out when attackers achieve access to a site on a client's target list, with one document mentioning a bounty for cracking the FBI.
+
+So what?
+The trove is remarkable as it appears to be the first known instance of a leak from a Chinese hacker-for-hire. Documents detailing how I-Soon tries to win work from Chinese government agencies do therefore offer insight into how Beijing outsources its infosec offensives.
+
+But the doc dump is also a little dull. Early analysis doesn't suggest I-Soon possessed capabilities not already observed among Chinese attackers.
+
+Consider, too, that contractors with cyber capabilities flourish around the world. Wherever you reside, your government probably has dealings with them. That China has a similar ecosystem should surprise nobody.
+
+The Register expects further revelations may flow from the trove, as it contains hundreds of screenshots of documents in Chinese. Machine translations of the trove are starting to appear here, but The Register knows from bitter experience that using optical character recognition to extract text from images before subjecting the results to web translation engines produces funky results.
+
+We'll keep an eye out for proper translations and bring you more news if they reveal juicier fare. ®

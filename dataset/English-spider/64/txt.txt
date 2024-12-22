@@ -1,0 +1,59 @@
+Massive Data Leak Exposes Sensitive Conversation Logs from Chinese Ministry of Public Security
+The leaked data from the alleged MPS breach contains various contents, including spyware, details on espionage operations, and more.
+by Ashish Khaitan 
+February 22, 2024
+ Reading Time: 4 mins read 
+A massive data breach originating from a private industry contractor of the Chinese Ministry of Public Security (MPS), known as iSoon (also referred to as Anxun), has surfaced on GitHub. The Ministry of Public Security breach included a substantial amount of sensitive information, potentially impacting various facets of espionage operations.
+
+The leaked data in the alleged MPS data leak encompassed a range of mixed contents, including but not limited to spyware, details on espionage operations, and even references to a purported “Twitter Monitoring Platform”. This MPS data breach mirrored the magnitude of the NTC Vulkan leak, indicating the severity and potential consequences of the incident.
+
+Analyzing the Chinese Ministry of Public Security Breach
+The leaked documents, purportedly internal Chinese government files, surfaced on GitHub, raising concerns about the security protocols within the MPS ecosystem. However, the authenticity of these documents remains unverified.
+
+Ministry of Public Security breach
+Source: GitHub
+The Cyber Express has reached the Chinese Ministry of Public Security to learn more about this MPS data breach. However, at the time of writing this, no formal acknowledgment or clarification had been provided, leaving the claims surrounding the Ministry of Public Security breach unconfirmed.
+
+The leaked messages revealed exchanges between various entities, shedding light on potentially sensitive conversations and operational details. While the specifics of these exchanges remained under scrutiny, they hinted at the complexity and extent of the breach.
+
+Some of the exchanges and chats between the users are given below. The messages are blurred for confidential reasons.
+
+Ministry of Public Security breach
+Source: GitHub
+The Cyber Express team investigated the leak and found that the vast amounts of the data included 66 links on a GitHub repository named I-S00N. The user behind this massive leak says that “上海安洵信息内幕. 上海安洵信息不靠谱, 坑国家政府机关. 安洵背后的真相. 安洵忽悠国家安全机关”, which translates to “Shanghai Anxun Information Insider. Shanghai Anxun’s information is unreliable and is a trap for national government agencies. The truth behind An Xun.”
+
+Ministry of Public Security breach
+Source: GitHub
+Moreover, the data unfolded into a multitude of conversations, reports, official government plans, articles, phone numbers, names, contact information, spreading across thousands of folders within the logs.
+
+Information Listed in the MPS Data Leak
+The actor responsible for the compiled leak has organized the data into distinct sections. Data from links 0-1 discusses how “An Xun deceived the national security agency.” The subsequent set of data, spanning links 2-10, comprises complaints from employees.
+
+Links 11-13 contain information regarding An Xun’s financial issues. Link 14 is dedicated to chat records between An Xun’s top boss Wu Haibo and his second boss Chen Cheng.
+
+Links 15-20 focus on “Anxun low-quality products,” while links 21-28 reveal information about An Xun’s products. From links 39 to 60, there is discussion about an Xun’s infiltration into overseas government departments, including those of India, Thailand, Vietnam, South Korea, NATO, and others.
+
+Chinese Ministry of Public Security breach
+Source: GitHub
+Finally, the last dump of the links from 61 to 65 contain data related to An Xun employee information.
+
+The data in these logs also included the exchange of data, cooperation with different departments or entities, assessments of projects, coordination for events like competitions or training sessions, and negotiations regarding the sale or sharing of information.
+
+Ministry of Public Security breach
+Source: GitHub
+The conversation also touched on challenges such as resource allocation, concerns about pricing and quality, and communication difficulties with certain contacts.
+
+Moreover, another interesting fact about the conversations in this MPS data breach is that the logs dates back to 2018 and covers a large amount of sensitive information with multiple vendors from China and other nations. 
+
+APT Cyberattacks on China
+In 2023, 360 Security Group’s annual cybersecurity report revealed over 1,200 APT attacks on China by 13 foreign organizations, primarily from North America and Asia. These attacks spanned 16 industries, with education being the most targeted.
+
+APT organizations, often state-backed, posed threats beyond espionage, potentially paralyzing a nation’s infrastructure. The US-led attacks were noted for their sophistication and global reach, affecting internet and IoT assets worldwide.
+
+A total of 731 APT reports, exposing 135 organizations, were released globally, with 54 identified by 360. Notably, China’s education and scientific research sectors were heavily targeted, with government agencies also under persistent attack. Geographically, attacks were concentrated in China’s southeastern coastal and high-tech regions.
+
+US policies, particularly against China’s tech sector, fueled increased attacks, notably on-chip, and 5G industries. These attacks aligned with political agendas to stifle China’s high-tech advancement. Furthermore, APT groups targeted China’s geological surveying fields, posing conventional espionage threats.
+
+An attack on the Wuhan Earthquake Monitoring Center highlighted the potential national security risks. Experts advocated for meticulous incident tracking and AI-driven defense systems, urging collaborative efforts to counter cyber threats effectively.
+
+Media Disclaimer: This report is based on internal and external research obtained through various means. The information provided is for reference purposes only, and users bear full responsibility for their reliance on it. The Cyber Express assumes no liability for the accuracy or consequences of using this information.

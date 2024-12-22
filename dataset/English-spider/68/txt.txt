@@ -1,0 +1,123 @@
+Foreign Intelligence Hackers and Their Place in the PRC Intelligence Community
+Publication: China Brief Volume: 24 Issue: 7
+By: Matthew Brazil
+March 29, 2024 05:28 PM Age: 8 months
+
+
+Advertisement for the 2018 "Anxun Cup" hacking competition, jointly hosted by Sichuan Anxun (iS00N) and Chengdu University. (Source: iS00N)
+Executive Summary:
+
+Leaked files from iS00N reveal deep insights into the PRC’s intelligence operations, highlighting an intensified global security offensive as well as issues within the intelligence community.
+iS00N’s growth is tied to Xi Jinping’s aggressive policies and demonstrates the importance of private contractors in fulfilling the PRC’s increased intelligence and security needs.
+The leaks expose employee dissatisfaction and underscore iS00N’s critical role in intelligence gathering and job provision, reflecting the contractor’s complex relationship with the PRC government.
+The exposure raises questions about the role and regulation of hacking contractors in the PRC, potentially leading to investigations and reforms that could affect the PRC’s intelligence strategy and international relations.
+ 
+
+In the month since the leak of over 570 files from the Shanghai-based hacking contractor iS00N (安洵信息), we have seen much reporting about their company culture, leaders and clients, whom they try to recruit, and what iS00N was actually doing (some of the best analysis on the leaks and the overall nature of the threat can be read at Natto Thoughts and Recorded Future).
+
+At the same time, the leaks are an opportunity to advance our understanding of how the opaque PRC intelligence and security community is changing. The data, which continues to be mined by various analysts, provides a window into how Beijing’s intelligence and security community (IC) is using cyberspace to meet the many threats perceived by the party. It indicates continued issues in China’s IC regarding standards, training, and discipline, while also confirming the long-held idea in the West that Beijing’s worldwide intelligence and security offensive is intensifying, while the Chinese side continues to blithely deny everything.
+
+The Leaks in a Nutshell
+
+Confirmed as genuine, the leaked data shines a light on the freelance hacking contractor’s operations, targets, and personnel (Associated Press, February 21). They reveal tasks that might be considered low-level but are now priorities because of Chinese Communist Party (CCP) General Secretary Xi Jinping’s more aggressive policies at home and abroad. The added work necessary to meet the expectations of the CCP’s supremo appears to have fostered a division of labor between the direct-hire officers of the Ministries of Public Security and State Security (MPS, MSS) and the People’s Liberation Army (PLA) on the one hand, and their contractors—like iS00N—on the other. That contractors are being engaged by the security agencies at what appears to be a significant level also indicates that they do not have an inexhaustible source of manpower at their disposal to meet enhanced intelligence tasking.
+
+The leaks also contain revealing information about the kind of work these contracting firms pursue and employee attitudes towards both the work and their employers. Any retaliation against iS00N may be mitigated by its utility to the government, in terms of both the intelligence it produces and the employment it provides to recent university graduates amidst rising unemployment.
+
+In addition, the Chinese side does not seem to mind being exposed as engaged in spying abroad. They meet all such revelations with the same denials and rote statements that the US is the world’s largest hacking empire and cybercriminal.
+
+iS00N Clients and Targets
+
+The cohort of hacking contractors which include iS00N has been developing since the November 2015 military and intelligence reorganization initiated by Xi Jinping (China Brief, February 4, 2016). The reforms probably redirected military cyber resources away from civilian targets in favor of those with military significance. The affected units could include the famous Unit 61398, alleged to be responsible for numerous hacking operations over the last two decades (Mandiant, December 30, 2021).
+
+It is difficult to confirm the number of contractor hacking firms without further leaks. But the demand for their services seems to have risen with Xi Jinping’s more aggressive domestic and foreign policies that logically require more and better intelligence on China’s targets and perceived antagonists. The utility of these contractors seems to be due in part to how well they work with the security apparatus, which appears to have increased responsibilities under Xi.
+
+The MSS conducts most of its actual foreign intelligence collection through their provincial state security departments (SSDs) or municipal state security bureaus (SSBs). Different regional departments and bureaus appear to focus on targets in different parts of the world. For example, the Shanghai SSB carries out operations against the United States and its main western allies, perhaps in part because so many Americans and other Westerners running factories and corporate offices are based there. The nearby Zhejiang SSD has been observed working against northern Europe, the Qingdao SSD against Japan and the Koreas, and so on. [2] This arrangement is probably dynamic, changing in response to shifting intelligence requirements and other considerations.
+
+The Ministry of Public Security (the national police) has long conducted most of its work through provincial Public Security Departments (PSDs) and its municipal and county Public Security Bureaus (PSBs). This organizational structure has spawned work by agents of local PSBs and PSDs in illegally established “police stations” abroad. These police stations are illegal as they are foreign government missions reportedly lacking the permission of the host government to operate—with the prominent exception of police stations set up with host government permission in South Africa (Africa-China Reporting, October 10, 2023; 60 Minutes Australia, July 30, 2023). These entities keep tabs on dissidents and others from their cities and provinces in China (Safeguard Defenders, December 5, 2022; CNN, February 2021). This same model seems to hold in PSD and PSB work with hacking contractors. Municipal bureaus and provincial departments that have intelligence requirements appear to solicit hacking contractors to help fulfill them.
+
+Natto, an analyst group focused on Asia that has analyzed the leaks, count 66 of the 120 agreements in the data showing iS00N Chengdu contracts with PSBs and PSDs, and 22 with SSBs and SSDs. One contract was with the PLA, and was the only one classified as “SECRET” (Natto, February 28). 31 additional contracts were with other government agencies, institutes, state-owned enterprises, and universities. Subject expert and former DOD official Drew Thompson corroborated this analysis but added that his research indicates that none of their clients were at the ministry level. Instead, all were at the provincial level and below. Some State Security Bureau clients had unit designators in Yunnan and Hubei provinces, including Yunnan Province Unit 59 and Unit 938 (云南省59号单位 and 938单位).
+
+The iS00N leaks show that contractors specialize in several functions including helping local PSBs and PSDs monitor their émigrés deemed as significant threats. For instance, the contract drawn up between iS00N’s Chengdu office and a Public Security Bureau in the Xinjiang Uyghur Autonomous Region (XUAR), the Bayingolin PSB, is an illustrative example (XUAR Statistic Bureau, June 14, 2021). [3] The undated contract is likely from late 2022, given its proximity to other documents in the iS00N leak collection. In it, iS00N’s Chengdu office offers these services:
+
+Obtain data on Uyghur “terrorists” who might return to the XUAR from iS00N’s penetration of the postal services of Afghanistan and Pakistan, the foreign ministries of Malaysia and Mongolia, the Malaysian military, the Thailand Ministry of Finance and Commerce, and commercial entities including Air Macau, Air Astana, and telecom operators in Kazakhstan, Mongolia, and Pakistan, and finally from other operations aimed at Syria, Uzbekistan, and Iran.
+Technical services to assist PSB operators in passing proficiency verification assessments, training in network attack and defense theory, and practical exercises in terminal remote control and penetration attacks.
+Design and initiation of a talent training plan between the Bayingolin PSB and local schools.
+Construction of facilities and fit-out of required equipment for the PSB to run its own hacking operations to enhance offensive capabilities abroad, per previous requirements laid down by MPS in 2010. These include a Twitter evidence collection platform, and remote-control management capability for Windows, Mac, Android, and Linux based systems.
+iS00N seems focused on the pathways back and forth between Xinjiang and Asian countries to which Uyghurs have emigrated, according to Thompson. The leaked material also indicates a division of labor. While the MSS and PLA use HUMINT resources to go after strategically important intelligence such as military assessments and plans at the strategic level, a lot of iS00N’s work is low-level and specialized, tasked against soft targets such as email and phone systems in countries like Thailand, Malaysia and central Asian states. [4]
+
+Clandestine technology acquisition is another area of activity in which PRC hacking contractors like iS00N excel. This involves the theft of trade secrets to help China upgrade its military and civilian industry. Recent analysis indicates that iS00N was behind the 2022 “supply chain attack” against the Canadian firm Comm100, which provides chat and other industrial connectivity solutions to thousands of corporate clients (Unit 42, February 23; Comm100, accessed March 21).[5] The same analysis indicates that iS00N also goes after dissidents and political irritants. The contractor can be linked to a large-scale attack (dubbed “POISON CARP”) in 2018-19 against Tibetan groups. The intrusions into iOS and Android devices owned by senior members of Tibetan groups were carried out by operators posing as NGO workers, journalists, and other fake personas. Links offered to the Tibetan users led to code designed to install spyware. The exploits were documented but not linked to iS00N until last month (Citizen Lab, September 24, 2019).
+
+Central to iS00N’s communications collection against such targets of interest is the “email analysis intelligence decision system (邮件分析情报决策系统)” and the “secret email extraction platform (邮件密取平台),” both of which specialize in the intercept and analysis of Gmail and Outlook messages. The latter “can achieve long-term and covert acquisition of target email data and intelligence, grasp evidence of the target’s illegal crimes, and achieve prevention” for RMB 900,000 ($125,000) a year or RMB 2.4 million ($330,000) for three years. [6]
+
+The leaks suggest that iS00N’s access only lasts as long as a system remains vulnerable but can be locked out if that changes, Thompson argues. However, soft targets like university systems are an exception. For instance, they appear to have been inside the system of French university Sciences Po for almost 10 years. Simply changing passwords and implementing system updates can prevent the exploitation of many vulnerabilities, though universities may tend to lag private companies or some government agencies in terms of cybersecurity best practices. [7]
+
+iS00N offers clients the “Twitter Control and Forensics Platform (Twitter 舆论导控 or 控制取证平台)” for RMB 700,000 ($97,230) per year or RMB 1.5 million ($210,000) for three years. It uses “exclusive non-sensory forensics” technology and big data “intelligent crawler technology” to implement countermeasures and monitoring of Twitter accounts.
+
+iS00N Chengdu Employees and Salaries
+
+In a table listing iS00N personnel at their Chengdu office who were cleared for secret duties (涉密人员花名册), each is categorized as either a “party member (党员)” or one of “the masses (群众),” along with their education level and, if a university graduate, their major. Another column lists each employee’s “Overseas background of immediate family members (直系亲属的境外背景),” though all reported “none (无).” Job titles included:
+
+Legal representative and team leader
+Confidentiality director and deputy team leader
+Operations and maintenance engineer
+Software development engineer (and manager)
+Software development manager
+Multimedia design and production
+Confidentiality administrator
+Human resources manager
+Classified computer security administrator (涉密计算机安全管理员). [8]
+A table of salaries, benefits, and tax collected for the month of October 2022 indicates that the pay scale for non-management employees at iS00N varied. The highest monthly salaries (RMB 19,000-21,500; $2,640-2,990) were awarded to three people in the technology department (技术部) and the lowest (RMB 3,500-10,000; $490-1,390) to those in support roles. Most of the employees at the technology department drew monthly salaries in the range of RMB 10,000-16,000 ($1,390-2,220). [9]
+
+For those in the top half of the iS00N Chengdu pay distribution, these salaries are reasonable. Monthly rent for a one-bedroom apartment outside the city center in Chengdu averaged about RMB 2,000 ($280) in May 2022, while the same in the city center cost about RMB 2,800 ($390). Larger apartments go for about twice as much, above RMB 4,500 ($625) (Travel Safe-Abroad, May 10, 2022). Those earning well below RMB 10,000 ($1,390) per month likely became disgruntled at their perceived low pay. One chat includes the message:
+
+“I’m really drunk…Public Security clients are such stupid c***s [公安的客户太傻逼] … I’d like to get the f**k out of the Public Security business this year. Too much heartache. Still no f**king money.” [10]
+
+
+Ding Xiaoyang accepts an award for young leaders from China’s Ministry of State Security in May 2018 while he and other MSS intelligence officers were allegedly hacking and stealing sensitive intellectual property from around the world. (Source: DOJ, July 19, 2021)
+Contrasts and Similarities with Two State Security Front Companies
+
+In the leaked materials, iS00N occasionally refers to itself as an “APT.” The term—which stands for Advanced Persistent Threat—was coined by Western security researchers to refer to state-sponsored hacking groups. iS00N, as a freelance and seemingly private organization not under any ministry or department, takes ironic ownership of the term. But iS00N exhibits both similarities and differences with APTs known to be directly controlled by PRC authorities.
+
+The now defunct Hainan Xiandun (海南仙盾) Technology Company Ltd. provides a useful comparison. Hainan Xiandun was directly set up as a front company by the Hainan SSD with management and other support from a local university. Before identifying Hainan Xiandun by name, private sector security researchers initially assigned it several codenames, eventually settling on APT40. By contrast, iS00N was established as a freelance, for-profit business to seek various clients among PSBs, SSBs, and so on.
+
+However, both pursued an eclectic selection of targets: aviation, defense, education, government, healthcare, biopharmaceutical, and maritime industries in the United States, Austria, Cambodia, Canada, Germany, Indonesia, Malaysia, Norway, Saudi Arabia, South Africa, Switzerland, and the United Kingdom. Despite their different business models, the two companies’ intelligence tasking also displayed some parallels, and both were working for PRC government and military clients.
+
+Hainan Xiandun was an MSS front company and probably immune from pursuit in court by a competitor. iS00N, meanwhile, has been embroiled in business disputes with their own ex-employees and with an erstwhile collaborator and competitor, Chengdu 404 (aka APT41). Reporting has revealed chat messages from iS00N showing that executives from their firm and Chengdu 404 worked together to fix bids to the disadvantage of their PRC government clients (CloudSEK, February 23; Hunt & Hackett, March 11; Associated Press, March 8).
+
+Another front company is the Wuhan Xiaoruizhi S&T Co Ltd (Wuhan XRZ; 武汉晓睿智科技). According to a US Justice Department indictment filed on 30 January, the company was set up in approximately 2010 by the Hubei State Security Department (HSSD) (DOJ, January 30). The seven defendants named in the indictment worked on behalf of HSSD, targeting Hong Kong democracy activists, commercial entities, journalists, and researchers to support unnamed MSS foreign intelligence and economic espionage objectives. They sent emails to “thousands of US and foreign politicians, foreign policy experts, academics, journalists and democracy activists,” as well as companies in the defense, IT, telecommunications, manufacturing, trade, legal, and research industries. Notably, the emails themselves were hazardous, according to the indictment:
+
+“The messages contained an embedded hyperlink that served as a tracking link. If the recipient activated the tracking link by opening the email, information about the recipient, including the recipient’s location, IP addresses, network schematics and specific devices used to access the pertinent email accounts, was transmitted to a server controlled by the Conspirators.” [11]
+
+Again, an eclectic mix, but not specific enough to analyze what intelligence requirements are being levied on which SSDs and SSBs. It is a situation which may be in flux, might be disorganized, or may be intentionally duplicative to drive competition and distrust between agencies so that they do not conspire together against the CCP elite.
+
+Future Prospects: Too S00N to Tell
+
+iS00N has CCP members amongst its management and staff, which in theory opens them to the same sort of investigations that disciplined domestic tech giants in recent years (DavisPolk, February 17, 2022). Investigations by the Central Commission for Discipline Inspection (CCDI), the party’s anti-corruption arm, would at a minimum be warranted for fixing bids to artificially inflate the prices paid by MPS and MSS bureaus for services. It would also be warranted to get to the bottom of the leak, which likely violated laws on state secrets and counterespionage, and are likely more urgent following extensive foreign media coverage.
+
+The apparent dissatisfaction by at least one iS00N employee raises other questions. Do freelance companies engage in wage theft or other types of fraud? Do underpaid operators, equipped with the skills of a cyber burglar, use them against PRC entities such as state-owned enterprises? PRC media is yet to report any such investigations, but they would likely be kept secret until the hammer falls on a set of designated criminals. Reforms may lead to significant restrictions, not only on iS00N but on other freelance hacking contractors. The MPS and MSS may point out the relative reliability, in theory, of front companies closely managed by themselves. It remains to be seen if the need to exert discipline outweighs the value of iS00N’s skilled operations against the CCP’s perceived enemies and the imperative to supply the demand for jobs for university graduates amid the PRC’s high youth unemployment rate.
+
+“Naming and shaming” do not seem to deter Beijing’s agencies and companies from various forms of espionage. But stopping the activity cold is not the point. Indictments and imprisonments may breed caution amongst active operatives and discourage some prospective candidates from joining up, as being caught can result in permanent travel restrictions to the US and nations with which it has extradition agreements—as is the case for Xu Yanjun, now serving 20 years in prison for corporate espionage (Reuters, November 21, 2022).
+
+Notes
+
+[1] Intelligence failures that came close to being fatal include missing signs of an impending coup by the Nationalist Chinese enemy (1927) and the defection of the leader of CCP Intelligence operations (1931). Successes that saved the party from disaster include the Three Heroes spy ring (1929-31), the CCP agents who uncovered Nationalist plans to attack the Red Army in 1934 and 1947, and the operation that discovered a Nationalist plot to kill Chinese president Liu Shaoqi during a state visit to Cambodia in 1963. Peter Mattis and Matthew Brazil, Chinese Communist Espionage, An Intelligence Primer (Annapolis: Naval Institute Press, 2019), 215-216, 6-7, 93. John Gittings, “Obituary, Xiong Xianghui,” The Guardian, 26 September 2005,  https://www.theguardian.com/news/2005/sep/26/guardianobituaries.china. 开诚, 李克农 中共隐蔽战线的卓越领导人 (北京: 中国友谊出版公司2012), 2-3. David Ian Chambers, “Edging in from the Cold: the Past and present State of Chinese intelligence Historiography” Studies in Intelligence, Vol. 56. No. 3, September 2012, https://www.cia.gov/resources/csi/studies-in-intelligence/volume-56-no-3/edging-in-from-the-cold-the-past-and-present-state-of-chinese-intelligence-historiography/
+
+[2] Nigel Inkster, China’s Cyber Power (London: The International Institute of Strategic Studies, 2016), 55.
+
+[3] The Bayingol PSB contract consists of five pages rendered in five files, beginning with leaked iS00N document d410e4aa-fb52-4ed4-9078-4483267a02b3_0 and ending with d410e4aa-fb52-4ed4-9078-4483267a02b3_4
+
+[4] Drew Thompson, former senior DOD official, Visiting Senior Research Fellow at the Lee Kuan Yew School of Public Policy at the National University of Singapore. Interview with the author via audio link, March 11.
+
+[5] A supply chain attack infects the target through a trusted third-party vendor like Comm100, that offers services or software, infecting all the users of the application.
+
+[6] Document aedc6a39-7862-4bbc-99e7-780ab3980282_4_0.png
+
+[7] Drew Thompson interview with the author via audio link, 11 March 2024.
+
+[8] Document 6d7fc7b3-c892-4cb5-bd4b-a5713c089d88_0.png
+
+[9] Document 2db27de1-d5c5-4f89-8572-da697a6329e4_3_0.png
+
+[10] iS00N text (Markdown) document 36.md
+
+[11] US Justice Department, Indictment 24-CR-43, 30 January 2024, para. B16, https://www.justice.gov/opa/media/1345141/dl?inline

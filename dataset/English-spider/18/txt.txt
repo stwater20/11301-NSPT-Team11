@@ -1,0 +1,36 @@
+NHK film exposes cyberattacks against Taiwan
+HACKERS’ MARKET: Chat logs about Taiwan and documents outlining ways to take over online accounts were leaked from a company that sells data from hacks
+Taiwanese cybersecurity specialists found 577 leaked documents which show that the Chinese Communist Party is engaging in “cognitive warfare” against Taiwan through cyberattacks and disinformation campaigns, a documentary released last month by Japanese public broadcaster NHK showed.
+
+The filmmakers behind Tracking China’s Leaked Documents said they spent six months visiting seven countries, including Taiwan, where they interviewed members of TeamT5, a malware research and cybersecurity firm, which found the leaked documents.
+
+TeamT5 said they discovered a string of mysterious URLs on the social media platform X, which they suspected could be accounts created by hackers or people who leaked data, which led them to the documents.
+
+The files included technical information for launching cyberattacks, such as tools for hacking into Microsoft or Google e-mail accounts, as well as techniques for remotely controlling smartphones.
+
+The leaked documents came from iSoon, a Shanghai-based firm that sells data obtained by hackers to the Chinese government, security agencies and state-owned enterprises.
+
+The documents included more than 16,000 messages from chat logs of iSoon employees, indicating their relationship and dealings with Chinese security agencies and military, the documentary showed.
+
+Many of the documents contained information on Taiwan, such as “demographic data” including names, addresses, telephone numbers; “road information data”; “architectural model data of Taiwanese cities”; and information from other databases, it said.
+
+In the iSoon chat logs, an employee mentioned National Chengchi University (NCCU), questioning whether a university document had any special meaning. Another employee responded that “it is useful for think tanks to conduct research on cross-strait relations.”
+
+NCCU Graduate Institute of Development Studies associate professor and chair Huang Jaw-nian (黃兆年) said the university’s server had been attacked, and some academics that had been consulted by government agencies had been targeted by hackers seeking to gain access to their e-mail accounts.
+
+The National Center for High-Performance Computing said the hackers might have used the NCCU server as a “jump server,” attempting to obtain more important information in Taiwan.
+
+The Internet protocol addresses mentioned in the iSoon documents matched those of Chinese hackers that many countries have already confirmed, TeamT5 said.
+
+It added that iSoon also provided technical support for malware used by a notorious Chinese hacker organization APT41, which showed the association between iSoon and Chinese hackers.
+
+Evidence of cognitive warfare campaigns were also found in iSoon’s leaked documents, such as online posts about spreading misinformation about a government proposal to introduce migrant workers from India, the documentary showed.
+
+Many young women protested against the policy after reading discussions about the policy on Dcard, a popular online forum, it said.
+
+The Taipei-based Doublethink Lab, which tracks online disinformation, said it found the original post that triggered the protest, titled “opening up to 100,000 Indian migrant workers will make Taiwan a sexual assault island,” which claimed the policy would increase incidents of sexual violence against women.
+
+Shortly after the post, discussions on the issue grew on X, stirring unrest among young Taiwanese, many of whom voiced their opposition to the policy, it said.
+
+Doublethink Lab analyst Lin Feng-Kai (林逢凱) said the example is an achievement of China’s cognitive warfare, as the choice of words used in the social media posts urging Taiwan not to cooperate with India implied that the authors behind the posts could be from China.
+A member of the hacking group Red Hacker Alliance accesses a Web site that monitors global cyberattacks at their office in Dongguan, China, on Aug. 4, 2020.

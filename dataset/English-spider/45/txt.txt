@@ -1,0 +1,97 @@
+China's for-profit hackers lavish Communist Party officials with booze and women to curry favor and win contracts, leaked documents reveal
+Leaked documents reveal internal workings of private hacking firm I-Soon
+China's so-called 'red hackers' offer the state their services for a fee 
+Binge drinking and karaoke with young women are used to win contracts
+
+e-mail
+21
+shares
+View comments
+China's private hackers-for-hire take government officials out for lavish banquets, binge drinking and late-night karaoke with young women in a bid to win favor and business, according to a trove of leaked documents. 
+
+Internal documents from a Chinese hacking firm called I-Soon were leaked online last month, revealing a seedy, sprawling industry where corners are cut and rules are murky in the quest to make money. 
+
+Although the Associated Press verified the authenticity of the documents, experts cautioned that the leak appeared curated to cause maximum embarrassment for I-Soon and its CEO, Wu Haibo.
+Wu, who goes by the hacker moniker 'shutdown', is one of China's so-called 'red hackers' — patriots who offer the Chinese Communist Party their services for a fee. 
+
+Over the past two decades, Chinese state security's demand for overseas intelligence has soared, giving rise to a vast network of these private hackers-for-hire companies that have infiltrated hundreds of systems outside China.
+I-Soon founder and CEO Wu Haibo is one of China's so-called 'red hackers' — patriots who offer the Chinese Communist Party their services for a fee
+Though the existence of these hacking contractors is an open secret in China, little was known about how they operate until last month's leak.
+
+David Robinson, a former Australian Army intelligence officer and the co-founder of Internet 2.0, called the leak a 'significant revelation, indicating China's implicit involvement in the extensive cyber warfare conducted by its private enterprises on a global scale.' 
+
+Target lists included in the leak indicate that I-Soon planned or attempted to breach a wide range of government agencies and organizations in the United Kingdom and elsewhere around the world. 
+
+It's unclear from the leak which targets were successfully breached.
+
+The leaked internal chat records also show I-Soon executives colluding with competitors to rig bidding for government contracts. 
+
+They also pay thousands of dollars in 'introduction fees' to contacts who bring them lucrative projects. I-Soon has not commented on the documents.
+
+Mei Danowski, a cybersecurity analyst who wrote about I-Soon on her blog, Natto Thoughts, said the documents show that China's hackers-for-hire work much like any other industry in China.
+
+'It is profit driven,' Danowski said. 'It is subject to China´s business culture - who you know, who you dine and wine with, and who you are friends with.'
+
+Though I-Soon boasted about its hacking prowess in slick marketing PowerPoint presentations, the real business took place at lavish parties, late night drinking sessions and poaching wars with competitors, leaked records show. 
+
+A picture emerges of a company enmeshed in a seedy, sprawling industry that relies heavily on connections to get things done.
+
+Today, hackers such as those at I-Soon outnumber FBI cybersecurity staff by 'at least 50 to one,' FBI director Christopher Wray said January at a conference in Munich.
+
+China boasts world-class hackers, many employed by the Chinese military and other state institutions. 
+
+But documents reveal that I-Soon and other hackers-for-hire often engage in sketchy business practices. 
+I-Soon employees are seen on a company retreat last fall. The company is a private contractor that provides hacking services to the Chinese government
+
+I-Soon leadership discussed buying gifts and which officials liked red wine. They swapped tips on who was a lightweight, and who could handle their liquor.
+
+I-Soon executives paid 'introduction fees' for lucrative projects, chat records show, including tens of thousands of RMB (thousands of dollars) to a man who landed them a 285,000 RMB ($40,000) contract with police in Hebei province. 
+
+To sweeten the deal, I-Soon's chief operating officer, Chen Cheng, suggested arranging to take the man out for a drinking and karaoke session with women.
+
+'He likes to touch girls,' Chen wrote.
+
+The source of the I-Soon documents is unclear, and executives and Chinese police are investigating. 
+
+And though Beijing has repeatedly denied involvement in offensive hacking, the leak illustrates I-Soon and other hacking companies' deep ties with the Chinese state.
+
+For example, chat records show China's Ministry of Public Security gave companies access to proofs of concept of so-called 'zero days', the industry term for a previously unknown software security hole. 
+
+Zero days are prized because they can be exploited until detected. I-Soon company executives debated how to obtain them. They are regularly discovered and surface at an annual Chinese state-sponsored hacking competition.
+
+Many of I-Soon's clients were police in cities across China, a leaked contract list showed. 
+
+I-Soon scouted for databases they thought would sell well with officers, such as Vietnamese traffic data to the southeast province of Yunnan, or data on exiled Tibetans to the Tibetan regional government. At times, I-Soon hacked on demand.
+
+I-Soon proclaimed their patriotism to win new business. Top executives discussed participating in China's poverty alleviation scheme - one of Chinese leader Xi Jinping's signature initiatives - to make connections. 
+
+In interviews with state media, I-Soon's CEO Wu quoted Mencius, a Chinese philosopher, casting himself as a scholar concerned with China's national interest.
+
+Despite Wu's professed patriotism, the leaked records depict a competitive man motivated to get rich. 'If you don't make money,' he wrote in a private message, 'being famous is useless.'
+
+But I-Soon has been hit by the country´s recent economic downturn , leading to thin profits, low pay and an exodus of talent, the leaked documents show.
+
+Low salaries and pay disparities caused employees to complain, chat records show. 
+Leaked employee lists show most I-Soon staff held a degree from a vocational training school, not an undergraduate degree, suggesting lower levels of education and training. 
+
+Sales staff reported that clients were dissatisfied with the quality of I-Soon data, making it difficult to collect payments.
+
+The company's troubles reflect broader issues in China's private hacking industry. 
+
+The country's cratering economy, Beijing's tightening controls and the growing role of the state has led to an exodus of top hacking talent, four cybersecurity analysts and Chinese industry insiders told The Associated Press.
+
+'China is no longer the country we used to know. A lot of highly skilled people have been leaving,' said one industry insider, declining to be named to speak on a sensitive topic. 
+
+Under Xi, the person added, the growing role of the state in China´s technology industry has emphasized ideology over competence, impeded pay and made access to officials pivotal.
+
+In recent years, Beijing has heavily promoted China's tech industry and the use of technology in government, part of a broader strategy to facilitate the country´s rise. 
+
+But much of China's data and cybersecurity work has been contracted out to smaller subcontractors with novice programmers, leading to poor digital practices and large leaks of data .
+
+Despite the clandestine nature of I-Soon's work, the company has surprisingly lax security protocols. 
+
+I-Soon's offices in Chengdu, for example, have minimal security and are open to the public. The leaked files show that top I-Soon executives communicated frequently on WeChat, which lacks end-to-end encryption.
+
+Still, Danowski, the cybersecurity analyst, at the end of the day, she added, it may not matter.
+
+'It's a little sloppy. The tools are not that impressive. But the Ministry of Public Security sees that you get the job done,' she said of I-Soon. 'They will hire whoever can get the job done.'

@@ -1,0 +1,30 @@
+Leak Exposes How Chinese Hackers Targeted Foreign Governments
+The front desk of the I-Soon office, also known as Anxun in Mandarin. (AP Photo/Dake Kang)Copyright 2024 The Associated Press. All rights reserved
+A data breach last week has revealed how Chinese firm i-Soon has targeted government bodies in Asia and Europe, along with NATO.
+
+The leaked data, according to Sentinel Labs, covers a period between 2020 and 2023. It appears to show the compromise of at least 14 governments, including India, Thailand, Vietnam, South Korea, along with pro-democracy organizations in Hong Kong, universities, and NATO. All in all, at least 80 targets appear to have been hit.
+
+"It is not known who pilfered the information nor their motives, but this leak provides a first-of-its-kind look at the internal operations of a state-affiliated hacking contractor," said the firm.
+
+"The leak provides some of the most concrete details seen publicly to date, revealing the maturing nature of China’s cyber espionage ecosystem. It shows explicitly how government targeting requirements drive a competitive marketplace of independent contractor hackers-for-hire."
+Sentinel Labs warns that while the leak’s contents do confirm public threat intelligence, the authenticity of the documents is still undecided, and that it's making efforts to corroborate the documents further.
+The files are a mixture of financial information, products, employee information, and details about foreign infiltration, along with chat logs in which employees of i-Soon complain about low pay - around $1,000, apparently - and gamble on mahjong games. While the source of the leak isn't clear, it appears to have come from a disgruntled i-Soon staff member.
+According to Malwarebytes, Shanghai-based i-Soon - also known as Anxun - is believed to be a private contractor that operates as an Advanced Persistent Threat-for-hire, servicing China’s Ministry of Public Security. Tools used by i-Soon include a Twitter/X stealer, custom Remote Access Trojans for Windows x64/x86, iOS and Android, portable devices for attacking networks from the inside, and a user lookup database which lists user data including phone number, name, and email, and can be correlated with social media accounts.
+
+Forbes Daily: Join over 1 million Forbes Daily subscribers and get our best stories, exclusive reporting and essential analysis of the day’s news in your inbox every weekday.
+The leaked files include one titled 'Draft EU position with regard to COP 15 part 2', another indicating that a Chinese government agency paid $15,000 to access data belonging to the Vietnamese traffic police, and one quoting a price of $55,000 for collecting data from Vietnam’s Ministry of Economy. One file indicates that the U.K.'s Foreign Office was a priority target, claiming that i-Soon had a 0-day vulnerability that would allow it to infiltrate systems within two weeks. I-Soon also claims to have obtained data from counter-terrorism authorities in Pakistan and Afghanistan.
+
+symbol
+00:01
+
+03:36
+Read More
+
+
+
+The company also appears to have been bidding for a contract with a local authority in Xinjiang, offering 'anti-terrorism' services to the local police for monitoring the region's persecuted Uyghur population. I-Soon listed other terrorism-related targets that it said it had hacked previously as evidence that it was up to the job.
+
+"While some of the information is dated, the leaked data provide an inside look in the operations that go on in a leading spyware vendor and APT-for-hire," said Malwarebytes researcher Pieter Arntz.
+
+"It will certainly rattle some cages at the infiltrated entities and as such it could possibly cause a shift in international diplomacy and expose the holes in the national security of several countries."
+

@@ -1,0 +1,46 @@
+As China Expands Its Hacking Operations, a Vulnerability Emerges
+New revelations underscore the degree to which China has ignored, or evaded, U.S. efforts to curb its extensive computer infiltration efforts.
+U.S. officials say that a network of contractors used by China for computer infiltration campaigns is weakened by economic problems and rampant corruption in the country.Credit...Thomas Peter/Reuters
+The Chinese hacking tools made public in recent days illustrate how much Beijing has expanded the reach of its computer infiltration campaigns through the use of a network of contractors, as well as the vulnerabilities of its emerging system.
+
+The new revelations underscore the degree to which China has ignored, or evaded, American efforts for more than a decade to curb its extensive hacking operations. Instead, China has both built the cyberoperations of its intelligence services and developed a spider web of independent companies to do the work.
+
+Last weekend in Munich, Christopher A. Wray, the F.B.I. director, said that hacking operations from China were now directed against the United States at “a scale greater than we’d seen before.” And at a recent congressional hearing, Mr. Wray said China’s hacking program was larger than that of “every major nation combined.”
+
+“In fact, if you took every single one of the F.B.I.’s cyberagents and intelligence analysts and focused them exclusively on the China threat, China’s hackers would still outnumber F.B.I. cyberpersonnel by at least 50 to one,” he said.
+U.S. officials said China had quickly built up that numerical advantage through contracts with firms like I-Soon, whose documents and hacking tools were stolen and placed online in the last week.
+
+The documents showed that I-Soon’s sprawling activities involved targets in South Korea, Taiwan, Hong Kong, Malaysia, India and elsewhere.
+
+But the documents also showed that I-Soon was having financial difficulty and that it used ransomware attacks to bring in money when the Chinese government cut funding.
+
+U.S. officials say this shows a critical weakness in the Chinese system. Economic problems in China and rampant corruption there often mean that money intended for the contractors is siphoned off. Strapped for cash, the contractors have stepped up their illegal activity, hacking for hire and ransomware, which has made them targets for retaliation and exposed other issues.
+
+The U.S. government and private cybersecurity firms have long tracked Chinese espionage and malware threats aimed at stealing information, which have become almost routine, experts say. Far more troubling, however, have been Chinese cyberhacking efforts threatening critical infrastructure.
+The intrusions, called Volt Typhoon after the name of a Chinese network of hackers that has penetrated critical infrastructure, set off alarms across the U.S. government. Unlike the I-Soon hacks, those operations have avoided using malware and instead use stolen credentials to stealthily access critical networks.
+
+Intelligence officials believe that intrusions were intended to send a message: that at any point China could disrupt electrical and water supplies, or communications. Some of the operations have been detected near American military bases that rely on civilian infrastructure — especially bases that would be involved in any rapid response to an attack on Taiwan.
+
+But even as China put resources into the Volt Typhoon effort, its work on more routine malware efforts has continued. China used its intelligence services and contractors tied to them to expand its espionage activity.
+
+I-Soon is most directly connected with China’s Ministry of Public Security, which traditionally has been focused on domestic political threats, not international espionage. But the documents also show that it has ties to the Ministry of State Security, which collects intelligence both inside and outside China.
+
+Jon Condra, a threat intelligence analyst at Recorded Future, a security firm, said I-Soon had also been linked to Chinese state-sponsored cyberthreats.
+“This represents the most significant leak of data linked to a company suspected of providing cyberespionage and targeted intrusion services for the Chinese security services,” Mr. Condra said. “The leaked material indicates that I-Soon is likely a private contractor operating on behalf of the Chinese intelligence services.”
+
+The U.S. effort to curb Chinese hacking goes back to the Obama administration, when Unit 61398 of the People’s Liberation Army, the Chinese military, was revealed to be behind intrusions into a wide swath of American industry, looking to steal secrets for Chinese competitors. To China’s outrage, P.L.A. officers were indicted in the United States, their pictures placed on the Justice Department’s “wanted” posters. None have ever stood trial.
+
+Then China was caught in some of the boldest theft of data from the U.S. government: It stole more than 22 million security-clearance files from the Office of Personnel Management. Its hackers were undetected for more than a year, and the information they gleaned gave them a deep understanding into who worked on what inside the U.S. government — and what financial or health or relationship troubles they faced. In the end, the C.I.A. had to pull back officers who were scheduled to enter China.
+
+The result was a 2015 agreement between President Xi Jinping and President Barack Obama aimed at curbing hacking, announced with fanfare in the White House Rose Garden.
+
+But within two years, China had begun developing a network of hacking contractors, a tactic that gave its security agencies some deniability.
+In an interview last year, Mr. Wray said China had grown its espionage resources so large that it no longer had to do much “picking and choosing” about their targets.
+
+“They’re going after everything,” he said.
+
+Julian E. Barnes covers the U.S. intelligence agencies and international security matters for The Times. He has written about security issues for more than two decades. More about Julian E. Barnes
+
+David E. Sanger covers the Biden administration and national security. He has been a Times journalist for more than four decades and has written several books on challenges to American national security. More about David E. Sanger
+
+A version of this article appears in print on Feb. 23, 2024, Section A, Page 8 of the New York edition with the headline: China’s Cyberoperations Continue to Expand, at a Cost. Order Reprints | Today’s Paper | Subscribe

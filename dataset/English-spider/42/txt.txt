@@ -1,0 +1,34 @@
+Chinese Hacking Contractor iSoon Leaks Internal Documents
+Company Mainly Hacked for the Ministry of Public Security
+Akshaya Asokan (asokan_akshaya) , David Perera (@daveperera) • February 20, 2024    
+Chengdu, Sichuan, where Chinese hacking contractor iSoon has its research and development center. (Image: Getty Images)
+An apparent leak of internal documents from a Chinese hacking contractor paints a picture of a disaffected, poorly paid workforce that nonetheless penetrated multiple regional governments and possibly NATO.
+
+See Also: OnDemand | 2024 Phishing Insights: What 11.9 Million User Behaviors Reveal About Your Risk
+
+An unknown person on Sunday posted on GitHub documents including spreadsheets, chat logs and marketing materials that evidently belong to Shanghai-based iSoon, a private company that supports government-led hacking operations.
+
+Multiple experts told Information Security Media Group the documents appear to be legitimate and track with already-public information about Chinese state hacking, including technical details about command-and-control infrastructure and malware.
+
+The company, also known as Anxun Information Technology, is "part of an ecosystem of contractors that has links to the Chinese patriotic hacking scene which developed two decades ago. They have since gone legit," said John Hultquist, chief analyst at Mandiant.
+
+Concerns about Chinese hacking are long-standing. Western countries as well as neighboring countries including Taiwan, Nepal, India, Central Asian nations and the Tibetan diaspora have been targets of continuing cyberespionage operations directed by Beijing. Washington, D.C., has recently amplified warnings about Chinese cyberspace activities, telling critical infrastructure operators that hackers have remained undetected for years in compromised systems.
+
+The leaked documents indicate that iSoon's main customer is the Ministry of Public Security, said Dakota Cary, a consultant and nonresident fellow at think tank Atlantic Council's Global China Hub. That means iSoon mostly receives contracts pegged to domestic security interests that require hacking into Asian organizations rather than high-profile international hacking assignments, which tend to be conducted by military or intelligence personnel.
+
+One record shows the company charging approximately $55,000 to hack the Vietnamese Ministry of Economy, Cary said.
+
+That sum isn't a lot - especially for the amount of time iSoon likely needed to break into the ministry's servers, Cary said. The low dollar amount is of a piece with leaked chat logs showing employees complaining "about how little they're paid, how they would like to go work at a different company," Cary said. A section of the GitHub documents is titled "employee complaints." One leaked exchange consists of banter between employees and a manager about playing the gambling game mahjong in the office.
+
+Technical information contained in the records shows the company relies on the Winnti backdoor, said Tom Hegel, a senior threat researcher with SentinelOne. It also used the PlugX remote access Trojan. Neither tool is exclusive to iSoon, which points to the wide extent of shared capabilities among Chinese hackers, Hegel said.
+
+The anonymous writers behind the Intrusion Truth blog - which exposes the real identities of Chinese hackers - in 2022 described Sichuan province - where iSoon conducts research and development - as "becoming a known hot spot for hacking." The writers said the proximity of operations between various threat groups in the region has resulted in overlaps in their malware infrastructure. Many of the leaked documents appear to be from iSoon's Sichuan office and reference Chengdu, the province's largest city, where the iSoon R&D center is located.
+
+"It's like any startup environment," said Hegel. "There are a lot of shared resources," and employees hop from company to company and bring with them knowledge and tactics gleaned from their previous companies.
+
+Among the services that iSoon advertised are "APT service system," "target penetration services," and "battle support services" capable of targeting government intranet file servers as well as specific networks such as communications and transportation servers, said Will Thomas, cyber threat researcher at Equinix, in online analysis. The company also touts advanced spyware for mobile devices.
+
+Included in the records is an assertion that iSoon hacked NATO, but Cary said he is skeptical about that. There is a screenshot of a "computer terminal, it does say the word 'NATO' - but I didn't see any specific victim data besides that one screenshot," he said.
+
+It's possible iSoon is exaggerating, or the leaker - whoever it is - decided to be circumspect about that one particular hack. The Chinese government, Cary said, isn't likely incredibly upset over the leak, and it probably doesn't spell the end of the company. The leak may even be the result of an intellectual property dispute with a rival company that could have engineered the record dump. Spilling about hacking Myanmar isn't that offensive to Beijing, but "the Chinese government would be very, very, very upset" with the leaker if they disclosed details about breaking into NATO computers.
+

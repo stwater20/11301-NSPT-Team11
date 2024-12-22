@@ -1,0 +1,76 @@
+Attributing I-SOON: Private Contractor Linked to Multiple Chinese State-sponsored Groups
+Posted: 20th March 2024
+By: Insikt Group®
+New Insikt Group Research provides updated insights on the recent i-SOON leak. On February 18, 2024, an anonymous leak of documents from Anxun Information Technology Co., Ltd. (i-SOON), a Chinese IT and cybersecurity company, shed light on China's state-sponsored cyber espionage operations. The leak is significant as it reveals the connections between i-SOON and several Chinese state-sponsored cyber groups such as RedAlpha, RedHotel, and POISON CARP, indicating a sophisticated network of espionage operations that includes the theft of telecommunications data for tracking individuals.
+
+insikt-group-logo-updated-3-300x48.png
+New Insikt Group Research provides updated insights on the recent i-SOON leak. On February 18, 2024, an anonymous leak of documents from Anxun Information Technology Co., Ltd. (i-SOON), a Chinese IT and cybersecurity company, shed light on China's state-sponsored cyber espionage operations. The leak is significant as it reveals the connections between i-SOON and several Chinese state-sponsored cyber groups such as RedAlpha, RedHotel, and POISON CARP, indicating a sophisticated network of espionage operations that includes the theft of telecommunications data for tracking individuals.
+
+i-soon.pngChinese threat activity groups linked to i-SOON (Source: Recorded Future)
+
+Insikt Group's analysis of the leaked materials confirmed the operational and organizational ties between i-SOON and these espionage groups and also corroborates the role of digital quartermasters in providing shared cyber capabilities across China’s offensive cyber ecosystem. This information is invaluable for network defenders, offering insights into the motivations and methodologies of targeted cyber espionage against public and private sector organizations.
+
+Despite the leak, i-SOON, a relatively small entity within China's extensive network of private contractors engaged in state-sponsored cyber activities, is expected to continue its operations with minor adjustments. The revelations may have implications for future US legal actions against i-SOON personnel while providing a deeper understanding of the scale and sophistication of Chinese cyber-espionage efforts.
+
+Notably, since the material was leaked, Insikt Group has already identified newly observed domain and infrastructure developments from i-SOON-linked groups RedAlpha and RedHotel.
+
+To read the entire analysis, click here to download the report as a PDF.
+
+Appendix A — Indicators of Compromise
+Note: These indicators are historical and often date back several years. They are included solely as a collation of the referenced infrastructure used in this report to identify connections between i-SOON and tracked Chinese state-sponsored threat activity and should not be used as indications of current activity.
+
+Domains:
+1ds[.]me
+antspam-mail[.]services
+bayantele[.]xyz
+dnslookup[.]services
+docx[.]1ds[.]me
+gmail[.]isooncloud[.]com
+gmailapp[.]me
+i-soon[.]net
+ip[.]1ds[.]me
+lengmo[.]myds[.]me
+lengmo[.]net
+linercn[.]org
+livehost[.]live
+mailnotes[.]online
+mailteso[.]online
+mpt[.]buzz
+mptcdn[.]com
+mydigi[.]site
+news[.]1ds[.]me
+wcuhk[.]livehost[.]live
+web[.]goog1eweb[.]com
+whkedu[.]dnslookup[.]services
+www[.]gmailapp[.]me
+www[.]sw-hk[.]services
+
+IP Addresses:
+1.192.194[.]162
+66.98.127[.]105
+101.219.17[.]111
+118.31.3[.]116
+171.88.142[.]148
+171.88.143[.]37
+171.88.143[.]72
+221.13.74[.]218
+
+Email Addresses:
+Chen Cheng aka lengmo:
+l3n6m0@gmail[.]com
+
+Wu Haibo aka Shutd0wn:
+shutdown@139[.]com
+
+Zheng Huadong:
+yetiddbb@qq[.]com
+
+Liang Guodong aka liner aka girder:
+girvtr@gmail[.]com
+liang007@outlook[.]com
+gird4r@gmail[.]com
+girder1992@hotmail[.]com
+evalliang@163[.]com
+6060841@qq[.]com
+leungguodong@outlook[.]com
+l3nor@hotmail[.]com

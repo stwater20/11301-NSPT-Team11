@@ -1,0 +1,83 @@
+World
+Explainer | What we know about China's alleged state-backed hacking
+Chinese hackers have become adept in recent years at breaking into rival nations' digital systems to gather trade secrets, according to researchers and Western intelligence officials.
+The interior of the I-Soon office, also known as Anxun in Mandarin, is seen after office hours in Chengdu in southwestern China's Sichuan Province on Feb. 20, 2024.
+The interior of the I-Soon office, also known as Anxun in Mandarin, is seen after office hours in Chengdu in southwestern China's Sichuan Province on Feb. 20, 2024.File Photo | AP
+BEIJING: Multiple Western nations have accused hacking groups backed by China of a global campaign of cyber espionage targeting critics, democratic institutions and other sensitive business targets.
+
+The revelations shed further light on Beijing's state-backed hacking operations, which the US has said are the biggest of any country.
+
+Beijing has always dismissed the claims as "groundless" while pointing to the United States' own history of cyber espionage.
+
+Here's what we know about Beijing's alleged state-backed hacking operations:
+
+'Persistent threat'
+
+Washington has warned that China represents "the broadest, most active, and persistent cyber espionage threat" to its government and private sector.
+
+Its hackers have become adept in recent years at breaking into rival nations' digital systems to gather trade secrets, according to researchers and Western intelligence officials.
+
+Chinese spies have also hacked the US energy department, utility companies, telecommunications firms and universities, according to US government statements and media reports.
+
+Beijing has been linked to 90 cyber espionage campaigns since the turn of the century—30 percent more than its close partner Russia, Benjamin Jensen, senior fellow at the Centre for Strategic and International Studies, told Congress last year.
+
+'Prolific' and 'global'
+
+This week's indictment by the United States lays out charges against seven Chinese nationals over what the Justice Department described as a 14-year campaign of hacking spearheaded by Beijing's Ministry of State Security (MSS).
+
+They are part of a cabal of hackers known as Advanced Persistent Threat 31 (the APT31 Group), the US said, operating out of the MSS offices in the central Chinese city of Wuhan.
+
+They are alleged to have sent more than 10,000 malicious emails containing "hidden tracking links" to target thousands of prominent dissidents and supporters, journalists, US officials and political figures, and American companies.
+
+The interior of the I-Soon office, also known as Anxun in Mandarin, is seen after office hours in Chengdu in southwestern China's Sichuan Province on Feb. 20, 2024.
+Behind the doors of a Chinese hacking company, a sordid culture fueled by influence, alcohol and sex
+This "prolific global hacking operation", the US said, could have compromised the emails, cloud storage accounts and phone logs of "millions" of Americans.
+
+It was also often geopolitical—responding to US criticism of Beijing and targeting Hong Kong democracy groups and an international group of lawmakers pushing for tougher Western policy against China.
+
+The United Kingdom said the same group had targeted its Electoral Commission and parliamentary accounts—including those of lawmakers critical of China.
+
+And New Zealand, normally one of China's strongest backers in the West, blamed the Chinese "state-sponsored group" APT40 for an attack on its Parliamentary Counsel Office, which drafts and publishes laws.
+
+'Maturing' operation
+
+This week's revelations follow a massive leak of data from a Chinese tech security firm in February, which experts said showed the company was able to breach foreign governments, infiltrate social media accounts and hack personal computers.
+
+The trove of documents from I-Soon, a private company that competed for Chinese government contracts, shows that its hackers compromised more than a dozen governments, according to cybersecurity firms SentinelLabs and Malwarebytes.
+
+I-Soon also breached "democracy organisations" in China's semi-autonomous city of Hong Kong, universities and the NATO military alliance, researchers said.
+
+
+"The leak provides some of the most concrete details seen publicly to date, revealing the maturing nature of China's cyber espionage ecosystem," SentinelLabs analysts said.
+
+It also revealed that Beijing was increasingly turning to private contractors for many of its hacking operations abroad.
+
+Striking infrastructure
+
+Intelligence agency bosses from the Five Eyes—an information-sharing alliance of major English-speaking countries—met in October for the first time ever and for one reason: China.
+
+Mike Burgess, head of the Australian Security Intelligence Organisation, told the gathering that the meeting would focus on "behaviour that goes well beyond traditional espionage".
+
+The targets are shifting, experts say: Microsoft said last May that it had detected a campaign by China-backed Volt Typhoon against critical US infrastructure.
+
+The goal, it said, was to be able to disrupt communications infrastructure in the United States and Asia during crises.
+
+In November, the company said Volt Typhoon was trying to improve its methods and had added universities to its target list.
+
+US authorities said they removed the group's malware from compromised US-based routers.
+
+Volt Typhoon appeared to be a highly sophisticated operation that could originate from a "specialised cyber intrusion contractor", Matthew Brazil, a senior fellow at The Jamestown Foundation and a former US diplomat, told AFP at the time.
+
+'Biggest hacking empire'
+
+The United States has long had its own ways of spying on China, deploying surveillance, interception techniques and networks of informants.
+
+And Washington's forays into cyber warfare, online surveillance and hacking are well documented.
+
+Beijing points to these examples when attention turns to its cyberattacks, accusing Washington of being the "world's biggest hacking empire."
+
+It flatly denies allegations that it engages in state-organised hacking of overseas targets, dismissing Microsoft's report from last May as "extremely unprofessional."
+
+Follow The New Indian Express channel on WhatsApp 
+
+Download the TNIE app to stay with us and follow the latest

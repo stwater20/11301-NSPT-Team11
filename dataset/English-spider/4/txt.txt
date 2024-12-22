@@ -1,0 +1,46 @@
+Did Chinese firm hack Indian government offices? All about I-Soon leak
+In leaked documents, a Chinese government cybersecurity vendor claimed to have targeted several ministries and businesses.
+In Short
+Chinese hacker group claims to have targeted PMO, Air India, Reliance.
+Thousands of documents posted on developer platform GitHub.
+Targets include NATO and even Beijing's allies like Pakistan.
+A Chinese state-linked hacker group claimed to have targeted key offices of the Indian government, including the "PMO" (likely the Prime Minister’s Office), and businesses like Reliance Industries Limited and Air India, according to leaked data reviewed by India Today's Open-Source Intelligence (OSINT) team.
+
+Thousands of documents, images, and chat messages associated with I-Soon — an alleged cybersecurity contractor with China's Ministry of Public Security (MPS) — were posted anonymously on GitHub over the weekend.
+GitHub is a developer platform where one can collaborate with fellow developers on open-source projects.
+I-Soon and Chinese police have launched an investigation to ascertain how the files were leaked, two employees of the contractor told the Associated Press (AP).
+
+One of the employees said I-Soon held a meeting on February 21 about the leak and was told it wouldn’t affect business too much and to "continue working as normal", the news agency reported.
+
+I-Soon and Chinese police have launched an investigation to ascertain how the files were leaked (AP)
+The leak unveils a complex network of clandestine hacks, spyware operations, and elaborate surveillance by Chinese government-linked cyber threat actors.
+
+A machine-translated version of the leaked internal documents, originally in Mandarin, shows attackers documenting their modus operandi, targets, and exploits. Targets ranged from the North Atlantic Treaty Organisation (NATO), an inter-governmental military alliance, European governments, and private institutions to Beijing’s allies like Pakistan.
+An India-focused page of what appears to be a brochure of iSoon
+
+Although the leak mentions targets of the cyber espionage operation, India Today didn’t find samples of the stolen data itself in the leak. It also does not specify the extent of penetration and duration of attacks on individual targets in all cases.
+
+INDIAN TARGETS
+The leaked data mentions Indian targets like the Ministry of Finance, the Ministry of External Affairs, and the "Presidential Ministry of the Interior", which likely refers to the Ministry of Home Affairs.
+
+The advanced persistent threat (APT) or hacker groups retrieved 5.49GB of data relating to various offices of the "Presidential Ministry of the Interior" between May 2021 and October 2021 during the height of India-China border tensions.
+
+"In India, the main work targets are the ministry of foreign affairs, ministry of finance, and other relevant departments. We continue to track this area in depth and can tap its value in the long term," reads the translated India section of what appears to be an internal report prepared by iSoon.
+User data of state-run pension fund manager, the Employees' Provident Fund Organisation (EPFO), state telecom operator Bharat Sanchar Nigam Limited (BSNL), and private healthcare chain Apollo Hospitals were also allegedly breached.
+
+Air India's stolen data pertains to details of daily check-in by passengers.
+About 95GB of India’s immigration details from 2020, described as "entry and exit points data", were also referred to in the leaked documents. Notably, 2020 saw an escalation in India-China relations following the Galwan Valley clash.
+
+"India has always been a huge focus of the Chinese APT side of things. The stolen data naturally includes quite a few organisations from India, including Apollo Hospital, people coming in and out of the country in 2020, the Prime Minister's Office, and population records," Taiwanese researcher Azaka, who first highlighted the GitHub leak, told India Today.
+
+John Hultquist, the chief analyst at Google Cloud-owned Mandiant Intelligence, was quoted by the Washington Post saying the online dump was “authentic data of a contractor supporting global and domestic cyber espionage operations out of China”. “We rarely get such unfettered access to the inner workings of any intelligence operation,” he said.
+I-Soon is an alleged cybersecurity contractor with China's Ministry of Public Security (MPS) (AP)
+FRIENDS TO FOES - EVERYONE IS ON CHINA'S TARGET
+Apart from India, the hacker group also claimed to have allegedly targeted its "all-weather friend" Pakistan. Other apparent targets include Nepal, Myanmar, Mongolia, Malaysia, Afghanistan, France, Thailand, Kazakhstan, Turkiye, Cambodia, and the Philippines, among others.
+As per the leaked dataset, as much as 1.43GB of postal service data from the “Anti-Terrorism Centre” in Pakistan’s Punjab province was obtained by the Chinese hacker group between May 2021 and January 2022. The documents also indicate that the Chinese government sanctioned snooping on Pakistan’s Ministry of Foreign Affairs and telecommunication company Zong.
+
+Huge amounts of data were also allegedly stolen from Nepal Telecom, Mongolia’s Parliament and police departments, a French university, and Kazakhstan's pension managing authority. The hackers also allegedly accessed the official systems of the Tibetan government-in-exile and its domain, Tibet.net.
+
+For years, hacking groups linked to China’s Communist Party, like Mustang Panda or APT41, have been running malicious campaigns, targeting organisations and countries including the US to gather intelligence. The US recently launched an operation to fight a pervasive Chinese hacking operation that compromised thousands of internet-connected devices.
+
+This isn’t the first time China has been in the spotlight for cyberattacks in India. In 2022, China-linked hackers reportedly targeted seven Indian power hubs. Threat actors attempted to get into India’s power infrastructure in 2021 as well.

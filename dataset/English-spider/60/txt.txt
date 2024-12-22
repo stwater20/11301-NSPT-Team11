@@ -1,0 +1,12 @@
+Opinion | China’s i-Soon data leak exposes risks of outsourcing state spy operations to hackers for hire
+A data dump of files from Chinese firm i-Soon revealed alleged hacking exploits, in an incident reminiscent of Edward Snowden’s case
+Like the West, Beijing is finding out the hard way the perils and advantages of outsourcing to private firms to maintain plausible deniability
+
+A massive data leak that hit a Chinese cybersecurity firm earlier this month, exposing alleged hacking and intelligence operations, has showcased how even China’s spy agencies rely on private contractors to do its bidding.
+
+On February 16, a total of 571 files allegedly containing hacking exploits and internal conversations from Shanghai Anxun Information Company (i-Soon) appeared on open-source repository GitHub, revealing what The New York Times called “a rare look inside the secretive world of China’s state-backed hackers for hire”.
+
+Like past incidents involving compromising data leaks, this data set took on a life of its own. Despite swift action by GitHub to block access to the leaked data over policy violations, the repercussions will echo across intelligence agencies, media circles, academia and security pundits for the foreseeable future.
+
+According to specialists that have analysed the data dump, it exposes global operations to target entities on behalf of various Ministry of Public Security outposts – as well as Shanghai Anxun’s role in training police across China to hack into foreign databases, in a case reminiscent of Edward Snowden’s revelations.
+

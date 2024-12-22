@@ -1,0 +1,18 @@
+China’s cyber espionage targeting Tibetan leadership in exile: new report
+By Tsering Dhundup
+
+DHARAMSHALA, April 21: A new report “SPYWARE-AS-A-SERVICE: What the i-Soon files reveal about China’s targeting of the Tibetan diaspora” by Turquoise Roof, a team of Tibet-focused cybersecurity analysts details how hackers with links to the Chinese government are using cyber espionage tactics to target members of the Tibetan government-in-exile and the office of the Tibetan spiritual leader, the Dalai Lama.
+
+The report, which was released Thursday, outlines the use of “Spyware-as-a-Service” by hackers associated with the Chinese government. It showed how leaked documents from i-Soon, a Chinese cybersecurity firm tied to the nation’s security apparatus, provided evidence of China’s large-scale cyber espionage activities, particularly the leadership of the exile Tibetan set-up.
+
+The leaked data reveals that the Chinese government has been employing sophisticated cyber espionage tactics to target various groups and individuals, including the Tibetan exile administration in Dharamshala, Uyghurs in the diaspora, pro-democracy advocates in Hong Kong, as well as official entities in neighbouring countries such as the Mongolian police and India’s customs agency.
+
+The examination of the leaked files shows that the Tibetan administration in exile and the Dalai Lama’s Private Office in India were among the targets of this cyber espionage campaign. i-Soon, a company with clients including the Chinese police, the People’s Liberation Army, and the Ministry of State Security, utilised advanced technological capabilities for data mining and communication pattern analysis.
+
+The leaked data has been linked to previous Advanced Persistent Threats (APT) campaigns targeting the Central Tibetan Administration (CTA), the Private Office of the Dalai Lama, and Tibetan and Uyghur civil society networks. The targeting of mobile devices by CTA officials since 2018 indicates a shift in tactics by threat actors to adapt to modern communication methods.
+
+A key finding from the leaked documents is the use of compromised email inboxes of exiled Tibetan individuals to gather massive amounts of highly sensitive information. This information could put individuals and their social networks at significant risk.
+
+The report also sheds light on the involvement of commercial enterprises like i-Soon in cyber espionage activities, highlighting the use of complex AI-driven surveillance systems by Beijing to enforce political controls over ethnic minority populations, both within China and internationally.
+
+Last month a report by cybersecurity researchers at ESET revealed that a cyber threat group with ties to China, identified as Evasive Panda, is responsible for a series of targeted cyberattacks against Tibetan users since September 2023. The attacks, discovered by cybersecurity researchers in January 2024, encompass both watering hole and supply chain attack methods. 

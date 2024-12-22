@@ -1,0 +1,32 @@
+Chinese Hacking Firm iSoon Targeted European Networks
+German Government Analysis Finds Screenshots of File Directories
+Chengdu, China, where state hacking contractor iSoon has its office (Image: Shutterstock)
+A massive February leak of internal documents from Chinese hacking contractor iSoon revealed apparent hacking against European institutions and states, a German federal agency warned this week.
+
+See Also: OnDemand | 2024 Phishing Insights: What 11.9 Million User Behaviors Reveal About Your Risk
+
+Details of the inside workings of the previously obscure Chinese hacking-for-hire firm emerged after an unknown person posted on GitHub documents including spreadsheets and chat histories. Security researchers linked the Chinese hack-for-hire contractor to Chinese state hacking groups tracked as RedHotel, RedAlpha and Poison Carp (see: iSoon Leak Shows Links to Chinese APT Groups).
+
+Analysis by the German Federal Office for the Protection of the Constitution says the leak included screenshots that appear to depict file directories of European targets.
+
+Among them is an image of a directory that appears to originate from a French organization listing classified European Union documents that contain the keyword "ZEUS." The acronym stands for "ZED! For European Union Security" and is a European encryption standard. NATO communications also use ZEUS.
+
+The German agency also uncovered a folder named "Notes of the Secretariat for European Affairs of North Macedonia," as well as names of several British public offices - such as the U.K. Cabinet, Home Office and Ministry of Justice - listed as potential targets.
+
+Previous analysis by security researchers of the leaked data has focused on iSoon's activities in South Eastern Asia, mainly in Taiwan, Tibet and Thailand. China expert Dakota Cary earlier told Information Security Media Group the leaked documents indicate that iSoon's main customer is the Ministry of Public Security. That would mean iSoon mostly receives contracts pegged to domestic security interests that require hacking into Asian organizations.
+
+It is unclear whether iSoon was able to hack every European entity found in the document dump or whether some of the flagged entities were simply expressions of interest - possibly because they could also serve as an entry point to access more highly secured targets.
+
+"It is certainly feasible for Chinese threat actors to target EU organizations, said Eugenio Benincasa, a cybersecurity researcher at ETH Zurich. He added that the group's activities align with the shifting geopolitical relations between the EU, NATO and China.
+
+The EU Commission's EU-China Strategic Outlook in 2019 labeled China as a "systemic rival," citing concerns over the country's human rights abuses. NATO in 2022 designated China as a strategic priority for the first time, due to the increasing tensions over Taiwan and the South China Sea.
+
+"These developments underscore the growing tensions and China's interest in conducting espionage to gather intelligence on European security measures," Benincasa said, adding that iSoon may have deliberately targeted the French organization to access confidential communications and to identify key networks and relationships for strategic gains.
+
+"This intelligence can be used to better prepare for or influence diplomatic negotiations, conduct influence operations and potentially sway European public opinion in China's favor," he said.
+
+Previous analysis by the German agency says iSoon is an apparent participant in the China National Vulnerability Database operated by the Ministry of State Security.
+
+Multiple cybersecurity companies including CrowdStrike and Microsoft have concluded that a Chinese law that took effect in 2021 requiring mandatory disclosure to the government of vulnerability reports has allowed Beijing nation-state hackers to grow in sophistication (see: Chinese State Hackers Level Up Their Abilities: CrowdStrike).
+
+The German agency said ISoon appears to be a Tier 3 contributor to the vulnerability database - the lowest level possible. "This indicates that while iSoon does engage in vulnerability research, its capabilities are relatively limited and it depends on vulnerabilities discovered by more skilled Chinese researchers external to iSoon," Benincasa said.

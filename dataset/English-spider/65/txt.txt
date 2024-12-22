@@ -1,0 +1,25 @@
+A first analysis of the i-Soon data leak
+Posted: February 21, 2024 by Pieter Arntz
+Data from a Chinese cybersecurity vendor that works for the Chinese government has exposed a range of hacking tools and services. Although the source is not entirely clear, it seems that a disgruntled staff member of the group leaked the information on purpose.
+
+The vendor, i-Soon (aka Anxun) is believed to be a private contractor that operates as an Advanced Persistent Threat (APT)-for-hire, servicing China’s Ministry of Public Security (MPS).
+
+The leaked data is organized in a few groups, such as complaints about the company, chat records, financial information, products, employee information, and details about foreign infiltration. According to the leaked data, i-Soon infiltrated several government departments, including those from India, Thailand, Vietnam, South Korea, and NATO.
+
+Some of the tools that i-Soon used are impressive enough. Some highlights:
+
+Twitter (now X) stealer: Features include obtaining the user’s Twitter email and phone number, real-time monitoring, reading personal messages, and publishing tweets on the user’s behalf.
+Custom Remote Access Trojans (RATs) for Windows x64/x86: Features include process/service/registry management, remote shell, keylogging, file access logging, obtaining system information, disconnecting remotely, and uninstallation.
+The iOS version of the RAT also claims to authorize and support all iOS device versions without jailbreaking, with features ranging from hardware information, GPS data, contacts, media files, and real-time audio records as an extension. (Note: this part dates back to 2020)
+The Android version can dump messages from all popular Chinese chatting apps QQ, WeChat, Telegram, and MoMo and is capable of elevating the system app for persistence against internal recovery.
+Portable devices for attacking networks from the inside.
+Special equipment for operatives working abroad to establish safe communication.
+User lookup database which lists user data including phone number, name, and email, and can be correlated with social media accounts.
+Targeted automatic penetration testing scenario framework.
+While some of the information is dated, the leaked data provide an inside look in the operations that go on in a leading spyware vendor and APT-for-hire.
+
+It will certainly rattle some cages at the infiltrated entities and as such it could possibly cause a shift in international diplomacy and expose the holes in the national security of several countries.
+
+Not all of the material has been examined yet. There is a lot available and translating is not an easy task. But we will keep you posted if anything else of interest shows up.
+
+Our business solutions remove all remnants of ransomware and prevent you from getting reinfected. Want to learn more about how we can help protect your business? Get a free trial below.

@@ -1,0 +1,55 @@
+China tech firm claimed it could hack Foreign Office
+A Chinese cyber security firm claimed it had the ability to hack the UK's Foreign Office, leaked documents suggest.
+
+UK government agencies, think tanks, businesses and charities also appear in the leaked i-Soon data.
+
+Other documents hint at successful hacks of public bodies and businesses across Asia and Europe, but it is not yet clear if any were compromised.
+
+The identity of the leaker is unknown.
+
+China's UK embassy said it was unaware of the leak, and said China "firmly opposes and combats all forms of cyberattacks in accordance with the law".
+But Chinese police and i-Soon are reportedly investigating the data dump, according to the AP news agency.
+
+The BBC has approached the UK government for comment.
+
+Leak appears genuine
+i-Soon is one of many private companies that provide cyber security services for China's military, police and security services.
+
+It employs less than 25 staff at its Shanghai headquarters.
+
+The collection of 577 documents and chat logs were leaked on GitHub - an online developer platform - on 16 February.
+hree security researchers told the BBC the leak appeared to be genuine.
+
+The files reveal eight years of i-Soon's work to extract data and gain access to systems in the UK, France and several places in Asia - including Taiwan, Pakistan, Malaysia and Singapore.
+
+In one case, a government organisation in southwest China paid around $15,000 (£11,900) to access the Vietnamese traffic police's website.
+
+In an other case, software to run a disinformation campaign on X, formerly Twitter, was priced at $100,000 (£79,000).
+
+'Boss Lu'
+In one undated chat log between "Boss Lu" and another unnamed user, the UK Foreign Office is revealed to be a priority target for i-Soon.
+The unnamed participant says they have access to a Foreign Office software vulnerability. However, Boss Lu then says to focus on another organisation because a rival contractor has been awarded the work.
+
+FBI says China state cyber group hacked key assets
+China accused of hacking key US bases on Guam
+China accused of hacking US government emails
+In another chat log, a user sends a list of UK targets to i-Soon that include the British Treasury, Chatham House and Amnesty International.
+
+"We don't have this to hand, but we can work on it," says the recipient.
+
+The pair then discuss prepayment from their client for the unspecified information on the targets.
+Other chat logs show that i-Soon staff discussed contracts involving Jens Stoltenberg, Nato's secretary general.
+
+Rare inside look
+The leaks potentially offer a rare inside look into a "commercially-fuelled, high-stakes intelligence operation," says John Hultquist, chief analyst at Mandiant Intelligence.
+
+The data shows how the contractors serve "not only one agency, but multiple agencies at once," he adds.
+
+Experts say there could be many motives behind the data leak.
+
+It could be a disgruntled former employee, a foreign intelligence agency, or a malicious leak by a competitor to undermine i-Soon's public credibility.
+The workings of China's cyber espionage campaign have been reported on extensively, but this leak shines light on the unusual way in which the private sector is involved in those campaigns.
+
+It is unlikely that the outcome of investigations by the Chinese authorities will ever be made public says Dakota Cary, a non-resident fellow at the Atlantic Council's Global China Hub.
+
+Reporting by Joshua Cheetham, Daniele Palumbo and Gordon Corera

@@ -1,0 +1,61 @@
+FILE - Binary code is projected onto a hooded person in this illustration photo taken on May 13, 2017. (TPX Images via Reuters)
+Share
+
+ Print
+
+Taipei, Taiwan — 
+A new report by a team of Tibet-focused cybersecurity analysts details how hackers with links to the Chinese government are using cyber espionage tactics to target members of the Tibetan government-in-exile and the office of the Tibetan spiritual leader, the Dalai Lama.
+
+“Spyware-as-a-Service," which was released Thursday, uses information from an enormous data leak in February from Chinese cybersecurity firm I-Soon. According to the report, hackers have been targeting the mobile phones of officials from the Central Tibetan Administration, or CTA, since 2018 and the large amount of information Chinese hackers have collected could pose significant security risks to them and those in their social networks.
+
+That targeting, “represents a significant shift in the tactics used by threat actors, signaling an adaptation to modern communication methods and an understanding of the increasing reliance on mobile devices for both personal and professional activities,” the report said. Tibet-focused research network Turquoise Roof published the report.
+
+The February data dump was a treasure trove of information about China’s cyber espionage and other activities. Leaked documents revealed that private firm I-Soon's clients include the Chinese police, China’s Ministry of Public Security, and the People’s Liberation Army. The leaked information also detailed tools and tactics used by the organization and connections among hacking groups in China.
+
+'Tip of an iceberg'
+
+These new findings provide a glimpse into “the sprawling cyber espionage apparatus” that China has used to target ethnic minorities over the last few decades, says Greg Walton, senior investigator at U.K.-based security consulting firm Secdev Group.
+
+“While the revelation is only the tip of an iceberg, it’s a very revealing one,” said Walton, who is the report’s author.
+
+“The findings help us learn more about the opaque system [that the Chinese authorities] have been using to target the West,” he told VOA by phone.
+
+One leaked white paper described in the report focused on how I-Soon used compromised e-mail inboxes of exiled Tibetan authorities to demonstrate how their system can satisfy the demand of China’s intelligence agencies to “mine through substantial volumes of intercepted email data.”
+
+“The platform is engineered to facilitate investigations into an individual’s ‘interpersonal network’ and to intricately map the social networks of targeted individuals,” the report wrote.
+
+Walton said the white paper offers rare insight into the “capabilities of the Chinese party-state.”
+
+“[Since] we know that I-Soon has been selling their services to Chinese intelligence agencies, including the public security bureau in Tibet, we make the point in the report that the harvested social network analysis from the exiles’ inboxes could be sold to the authorities in Tibet,” he told VOA.
+
+In his view, Chinese authorities could incorporate “the web of personal and professional connections” identified from the compromised e-mail inboxes of exiled Tibetan officials into the big data policing platform that they use to crack down on the local community in Tibet.
+
+“The platform is instrumental in a campaign that criminalizes even moderate cultural, religious expressions, language rights advocacy and surfaces links to exile Tibetan networks,” Walton said.
+
+In response to the report’s findings, the Chinese Embassy in Washington said Beijing has “always firmly opposed and cracked down on all forms of cyber hacking” according to law.
+
+The accusation from the report “is a complete reversal of black and white,” Liu Pengyu, the spokesperson of the Chinese Embassy, told VOA in a written response.
+
+A long history of threats from Chinese cyber espionage
+
+The CTA and the Tibetan diaspora community have been targets of Chinese cyber espionage for more than a decade. In 2008, an extensive cyber operation called “GhostNet,” which is connected to a specialized division of the People’s Liberation Army, caused serious problems across the Tibetan community.
+
+Between November 2018 and May 2019, some senior members of Tibetan groups received malicious links in tailored WhatsApp text exchanges with operators disguised as NGO workers and other fake personas, according to research conducted by the University of Toronto’s Citizen Lab.
+
+According to Turquoise Roof’s report, the escalation of cyber operations against the CTA by China’s military and intelligence services is “in step with” the exiled Tibetan government’s increased investment in its digital presence and reliance on digital systems for interacting with the diaspora community.
+
+Some Tibetan organizations have been conducting training to enhance their resilience against Chinese cyberattacks.
+
+“The Tibet Action Institute provides tech assistance to exiled Tibetan organizations and they often teach us about the security measures we can adopt to prevent our accounts or digital devices from being hacked,” Ngawang Lungtok, a researcher at the Tibetan Centre for Human Rights and Democracy, told VOA by phone.
+
+The CTA has also been focusing on upgrading its technical capacity and offering orientations to all Tibetan officials in recent years.
+
+“The Tibetan Computer Resource Center offers training and workshops regularly,” Tenzin Lekshay, the spokesperson of the CTA, told VOA in a written response.
+
+Walton adds that the CTA even sent people to the United States for specialized training.
+
+“The CTA has some good people trained in the U.S. and is now in the position to help tackle risks extended from Chinese cyberattacks,” he said.
+
+The report says the I-Soon leak offers significant insight into the Chinese authorities’ use of AI-driven surveillance systems to “enforce political controls” within and beyond its border. It also showcases Beijing’s efforts to “refine its espionage capabilities” by using novel intelligence tactics against vulnerable populations like the Tibetans before global deployment.
+
+Considering the impact of cyber espionage on the Tibetans, Walton said he believes investing in the protection of vulnerable populations from digital transnational repression “is an example of” aligning traditional security with human rights advocacy.

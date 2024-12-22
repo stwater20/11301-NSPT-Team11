@@ -1,0 +1,61 @@
+China turns to private hackers as it cracks down on online activists on Tiananmen Square anniversary
+Published: May 31, 2024 2.02pm BST 
+Every year ahead of the June 4 commemoration of the Tiananmen Square massacre, the Chinese government tightens online censorship to suppress domestic discussion of the event.
+
+Critics, dissidents and international groups anticipate an uptick in cyber activity ranging from emails with malicious links to network attacks in the days and weeks leading up to the anniversary.
+
+Much of this cyber activity by Beijing is done covertly. But a recent restructuring of China’s cyberforce and a document leak exposing the activities of Chinese tech firm i-Soon have shed some light on how Beijing goes about the business of hacking.
+
+As a China expert and open-source researcher, I believe the latest revelations draw the curtain back on a contractor ecosystem in which government officials and commercial operators are increasingly working together. In short, Beijing is outsourcing its cyber operations to a patchwork army of private-sector hackers who offer their services out of a mix of nationalism and profit.
+
+From censorship to cyberattacks
+Chinese authorities restrict the flow of information online by banning search terms, scanning social media for subversive messages and blocking access to foreign media and applications that may host censored content. Control of online activity is particularly stringent around the anniversary of the protests at Tiananmen Square in 1989 that ended with a bloody crackdown on demonstrators by troops on June 4 of that year.
+
+Since then pro-democracy activists have sought to commemorate the massacre on its anniversary – and Beijing has sought to counter mention of the crackdown. Chinese internet users note more restrictions and censorship in the run-up to the anniversary, with more words being banned and even certain emojis – like candles, denoting vigils – disappearing.
+
+In 2020, Chinese authorities ordered Zoom, an American tech firm with a development team in China, to suspend the accounts of U.S.-based activists commemorating June 4 and to cancel online vigils hosted on the platform. Zoom complied, stating that it was following local laws.
+
+Beyond censorship, cyberattacks on dissident groups and Chinese-language media in the diaspora have also occurred on or around the anniversary.
+
+On June 4, 2022, Media Today, a Chinese-language media group in Australia, experienced an unattributed cyberattack against its user accounts. And earlier this year, the U.S. Department of Justice charged seven China-based hackers with sending malicious tracking emails to members of the Inter-Parliamentary Alliance on China, a group set up in 2020 on the anniversary of the Tiananmen Square massacre.
+
+China’s cyberforce
+The increasing sophistication of online attacks on dissident and international groups comes as China has been restructuring the agencies responsible for its cyber operations.
+
+Today, much of China’s malicious cyber activities are carried out by the Ministry of State Security, or MSS, the country’s main intelligence agency and secret police. But prior to the MSS expanding into this role, the People’s Liberation Army, or PLA, was responsible for the earliest cyberattacks attributed to the Chinese government. In 2015, the PLA dedicated a new service to cyberwarfare and network security, the Strategic Support Force.
+
+But in April 2024, the PLA abruptly announced the Strategic Support Force’s disbandment and the creation of three new forces: the Aerospace Force, the Cyberspace Force and the Information Support Force. They, along with the existing Joint Logistics Support Force, report directly to the Chinese Communist Party.
+
+This restructuring comes at a time of political uncertainty for China’s leadership. In 2023, Defense Minister Li Shangfu was removed just months into his new role, along with Foreign Minister Qin Gang and Li Yuchao, commander of the Rocket Force.
+
+While Beijing has yet to offer details on the military reorganization, its timing appears to send a message. President Xi Jinping personally presided over the inauguration of the Information Support Force, telling members of the force that they must “listen to the party’s orders” and be “absolutely loyal, absolutely pure, absolutely reliable.”
+
+Hackers: Patriots, pirates or profiteers?
+The restructuring of China’s cyberforces coincides with a trend that has seen the outsourcing of malicious cyber operations to private sector contractors acting with the state’s explicit or tacit approval.
+
+In February 2024, a document leak exposed an underground network of Chinese cyber contractors hacking for profit.
+
+Cyber experts have long suspected that hackers may collaborate with the Chinese government, but the leak shows how operators working for Chinese firm i-Soon sold services and products to Chinese government entities and state-sponsored threat groups. The company was founded in 2010 by Wu Haibo, a former member of the Green Army, often described as China’s earliest hacker community.
+
+The Green Army was formed in 1997 for hackers to learn and exchange hacking techniques. By 1998, patriotic Chinese hackers began organizing cyberattacks. For example, when riots in Indonesia triggered by the Asian financial crisis gave rise to racial violence against Chinese Indonesians, Chinese hackers targeted Indonesian government websites.
+
+In 1999, Chinese hackers vandalized U.S. government websites following NATO’s accidental bombing of the Chinese embassy in Belgrade. The term “honker,” meaning “red hacker” in Chinese, emerged around this time to designate Chinese hackers motivated by ideology and nationalism.
+
+Yet, Chinese hackers have had an uneasy relationship with the authorities. While they offer cyber skills as well as plausible deniability for the Chinese government, they tend to muddle Beijing’s foreign policy when their actions go too far and draw criticism.
+
+They are also prone to commit cybercrimes such as fraud and theft of intellectual property alongside state-sponsored espionage.
+
+The Chinese government and prominent “patriotic” hackers have previously tried to rein in the community and promote legitimate work such as cybersecurity.
+
+The i-Soon leak, however, documents how Chinese state-sponsored contractors engage in bribery and other illicit activities.
+
+Exploiting security flaws
+China’s cyber capabilities have grown through the control and exploitation of cyber professionals, state-sponsored or otherwise. But it’s a complicated relationship.
+
+To phase out the criminal behavior of hackers, Beijing has developed a pipeline to train its cyber workforce. And in part to keep them from sharing expertise with foreigners, Chinese cyber professionals are generally banned from international hacking competitions.
+
+While cybersecurity is improved when security professionals share newly discovered security flaws, Chinese regulations limit the flow of such information. By law, software vulnerabilities discovered in China must be immediately reported to the Chinese government. Experts believe the Ministry of State Security subsequently exploits this data to develop cyber offensive capabilities.
+
+Still, the i-Soon leak points to corruption in at least one corner of China’s growing network of commercial hacking. Internal correspondence shows contractors bribing government officials with money, alcohol and other favors. Messages also show contractors failing to generate sales, delivering subpar work and complaining about their working-class salary.
+
+With local governments in China struggling to pay for basic services in a weak economy, companies such as i-Soon that support Beijing’s cyber operations face not only political but also financial headwinds. Despite Beijing’s intention to implement an online crackdown every year on June 4, the cyberforces it employs to do so face their own issues that invite scrutiny and rectification by the Chinese Communist Party.

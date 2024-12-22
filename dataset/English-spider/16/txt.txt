@@ -1,0 +1,9 @@
+Massive “i-Soon” leak reveals Chinese firm's hacking tools, targets, including NATO
+Tools, gripes of contractor working for China's Ministry of Public Security dumped online in landmark breach
+A massive leak of documents from a Chinese cybersecurity vendor, i-soon – allegedly working for the Ministry of Public Security – has exposed a range of offensive security tools and operations, along with pronounced ennui among its staff about their pay and pace of product development.
+
+The documents were anonymously posted on GitHub, where they were picked up and shared by Taiwanese security researcher @AzakaSekai_ on Sunday. They show i-soon – also known as An Xun – boasting in presentations and other documents of having breached or targeted India’s defence ministry, NATO and the UK’s National Crime Agency, as well as having sustained and deep access to telcos in neighbouring states.
+
+i-soon appears to offer hacking tools and services to the Chinese government; acting like an APT-for-hire. According to a group of geopolitics and security researchers posting as “NATTO” in 2023, it was founded by patriotic hacker, CEO Wu Haibo (吴海波) , a.k.a shutdown.
+
+The trove includes presentations boasting of its capabilities, including malware for various platforms including Microsoft Exchange and Android, social media spying tools including how it identifies dissident Twitter/X and Facebook users., and custom hardware for network infiltration. (As yet, The Stack has not seen enough detail on any specific offensive security suites or evidence of zero days to inform network defenders beyond standard best practice like phishing-resistant MFA et al.)

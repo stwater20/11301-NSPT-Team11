@@ -1,0 +1,33 @@
+China's Hacking and Spying Revealed in Bombshell Leak
+A trove of documents leaked by an anonymous source reveals Beijing's wide-ranging hacking operations and its priorities in its global push to shape the global information landscape.
+
+The documents in the bombshell 190-megabyte leak on February 16 came from I-Soon (known as Auxun in Mandarin), a private security contractor with ties to China's top spy agency. Detailed within are the firm's surveillance of targets, both Chinese and foreign, government and private.
+
+The documents show the scope of Bejing's wide-ranging efforts to infiltrate foreign governments, firms and national infrastructure. FBI Director Christopher Wray warned last month of the Chinese government's wholesale efforts to target "critical" American infrastructure and steal personal, corporate and research data.
+The dump sheds light on I-Soon's tools to spread propaganda, monitor activists living abroad and disrupt Wi-Fi networks.
+This image was taken at the Kaspersky Transparency Summit in Zurich, Switzerland, on November 13, 2018, where experts and leaders of the global ICT industry gathered to discuss how to ensure trust in their products... More Adrian Bretscher/Getty Images for Kaspersky Lab
+"We see a lot of targeting of organizations that are related to ethnic minorities—Tibetans, Uyghurs. A lot of the targeting of foreign entities can be seen through the lens of domestic security priorities for the government," Dakota Cary, a China analyst with the cybersecurity company SentinelOne, told the Associated Press.
+
+Clients of I-Soon also requested or obtained intelligence on infrastructure. One spreadsheet showed the security contractor had 459 gigabytes worth of data on road maps in Taiwan, which China considers its territory and has pledged to eventually annex, The Washington Post reported.
+The data trove was discovered on GitHub, an open-source platform for software developers, by a cyber threat analyst in Taiwan who goes by the handle @azakasekai on X (formerly Twitter), former FBI cyber expert Adam Kozy told Newsweek.
+
+"There's multiple hypotheses floating around about the original source in China. They had access to extensive to [Chinese do-all app] WeChat chat records, but disgruntled insider or a rival firm are the most likely," Kozy said when asked about the source of the leak.
+
+Kozy said the data dump reveals there is "a tightly knit community of legacy hackers from the early 2000s that still operates a majority of these contract hacking firms used by Chinese intelligence agencies like the Ministry of Public Security, Ministry of State Security, and the People's Liberation Army."
+While most of the entities outlined in the massive cache were in Asia, the U.K.'s Home and Foreign Offices and Treasury, as well as British think tanks like Chatham House, were also targeted.
+
+Newsweek reached out to the Chinese embassy in Washington, D.C., with a written request for comment.
+
+The revelation comes amid heightened concern in the U.S. and its allies over China's sophisticated state-directed cyber operations.
+
+In a court-approved operation, the FBI recently "disrupted a botnet of hundreds of U.S.-based small office/home office routers hijacked by People's Republic of China (PRC) state-sponsored hackers," the agency said in a statement released January 31.
+
+
+"There has been far too little public focus on the fact that PRC hackers are targeting our critical infrastructure—our water treatment plants, our electrical grid, our oil and natural gas pipelines, our transportation systems—and the risk that poses to every American requires our attention now," FBI Director Christopher Wray said that day during a hearing in the House of Representatives' Select Committee on the Chinese Communist Party.
+
+Wray warned these state-back hackers are paving the way for China to "wreak havoc" on American infrastructure "when the time has come to strike." They are also "actively attacking our economic security—engaging in wholesale theft of our innovation and our personal and corporate data," he said.
+
+In October, the intelligence chiefs of the Five Eyes intelligence alliance—the U.S., U.K., Canada, Australia and New Zealand—warned of the threat posed by China's use of cutting-edge technology to carry out hacking and intellectual property theft on a grand scale.
+
+"China firmly opposes and cracks down on all forms of cyber attack in accordance with the law," Chinese Foreign Ministry spokesperson Mao Ning said at a press conference on Monday, in response to Wray's remarks on the Chinese hacking threat. "Without valid evidence, the U.S. jumped to an unwarranted conclusion and made groundless accusations against China. It is extremely irresponsible and is a complete distortion of facts."
+Countering with an accusation of her own, Mao said Chinese cyber security agencies have uncovered "long-running cyber attacks against China's critical infrastructure" by the U.S. government, without citing specific examples.

@@ -1,0 +1,65 @@
+Shadow Ops Exposed: Inside the Leak of China’s i-Soon Cyber Espionage Empire
+Chinese authorities, law enforcement agencies, cybersecurity researchers, and a whole lot of other people are investigating an unprecedented online leak of documents from a private security firm. A vast amount of data has been leaked on GitHub from a Chinese cybersecurity firm that provides services to the Chinese government, unveiling various hacking tools and services.
+
+
+-SOON leaks on GitHub.
+
+The leak appears to have been deliberately executed by a dissatisfied company employee. The firm, known as i-Soon (or Anxun in Mandarin), is also considered a private contractor functioning as an Advanced Persistent Threat (APT) group on behalf of China’s Ministry of Public Security.
+
+The leak stayed under the shadow of Operation Cronos for some time. However, it could be a lot more critical. This leak, which came to light following the unauthorized release of a vast array of documents last week, includes evidence of hacking activities and espionage tools aimed at monitoring both Chinese citizens and foreigners.
+
+I-Soon has been implicated in supplying espionage capabilities targeting ethnic groups and dissidents within China, notably in regions like Hong Kong and Xinjiang (Uyghur Autonomous Region), where there have been substantial anti-government movements. The documents provide detailed insights into the tactics employed by Chinese officials to monitor dissidents abroad, infiltrate the computer networks of other countries, and spread pro-Beijing messages on social media platforms.
+i-SOON listed state-level supplier qualifications from Ministry of State Security and Ministry of Public Security (NattoThoughts)
+
+This significant security breach, confirmed by two Anxun employees, exposed a collection of detailed information despite not unveiling particularly new or advanced espionage methods. The leaked documents encompass hundreds of pages detailing contracts, marketing strategies, product guides, and lists of clients and staff linked to the Ministry of Public Security, but not limited to it.
+
+Additionally, the breach allegedly involved the theft of terabytes of data from various countries, allegedly including Afghanistan, Cambodia, Egypt, Hong Kong, India, Indonesia, Kazakhstan, Kyrgyzstan, Malaysia, Mongolia, Myanmar, NATO, NATO member countries, Nepal, Nigeria, Pakistan, Rwanda, South Korea, Taiwan, Thailand, Turkiye, Vietnam, Philippines, and more. The leaked data encompasses personal information such as names, email addresses, physical addresses, and phone numbers, therefore showcasing how further Chinese espionage activities are reaching.
+Many websites mentioned in the leak have domains of foreign countries
+
+Initial Observations
+As reported by SentinelLabs researchers Dakota Cary and Aleksandar Milenkoski, on the evening of January 15th, an individual created the email address I-SOON@proton.me, setting the stage for a significant cyber incident. Roughly a month later, this email was used to initiate a series of uploads to GitHub, revealing an extensive collection of documents linked to I-SOON, a Chinese cybersecurity firm. This cache included marketing materials, internal communications, and technical documents, all of which were unearthed by a Taiwanese analyst who then broadcasted the discovery across social media platforms.
+
+The leaked GitHub documents from I-SOON highlight the company’s aggressive marketing efforts, boasting about its counterterrorism initiatives to win contracts, especially in Xinjiang. This region is controversial due to allegations against the Chinese government’s treatment of Uyghurs. I-SOON used its history of cyber operations, including hacks on counterterrorism centers in Pakistan and Afghanistan, as evidence of its prowess.
+
+The technical specifics in the leaks reveal I-SOON’s tools for infiltrating and controlling networks, featuring unique surveillance devices disguised as a power bank for data extraction. Although the documents didn’t unveil groundbreaking hacking methods for now, they confirmed I-SOON’s focus on hacking-for-hire and offensive cyber operations.
+Custom-made snooping devices (SentinelLabs)
+
+Moreover, as stated above, the leaks provide insights into potential Chinese cyber espionage, with details on malware, control systems, and targeted sectors, aligning with the activities of known APT groups. These aspects are under detailed investigation to understand their link to past cyber incidents.
+
+Background
+Some issues that are thought to have emerged today were already before our eyes. An article in 2023 also investigated the espionage activities of China. A legal dispute between Chengdu 404 and i-SOON in Chengdu, China, captured attention due to its connections with alleged Chinese state hacking activities, notably APT41. Chengdu 404, implicated by US officials as part of the APT41 hacking campaign, had sued i-SOON over a disagreement involving a software development contract, suggesting a business relationship between the entities. Despite US indictments that named key Chengdu 404 personnel as APT41 members, the company maintained its operations, having registered new software and sought municipal support for its expansion efforts.
+APT41, also known as Double Dragon
+
+i-SOON, meanwhile, bore resemblances to Chengdu 404 in aspects such as their establishment timelines, focus on network technology, software development, and organizational size. Furthermore, i-SOON’s CEO, Wu Haibo, was a recognized figure within China’s hacker community, underscoring the intricate connections these companies had with the country’s larger cyber capabilities network. This association raised speculations about their roles in state-backed hacking operations.
+SOCRadar Threat Actors/Malware tab, APT 41
+
+The confrontation highlighted the intricate web of IT companies in Chengdu, acknowledged as a focal point for hacking activities, and implied that Sichuan i-SOON might be another component in China’s APT framework. The potential collaboration of both companies in cybersecurity endeavors and mobile attacks emphasized Chengdu’s strategic significance in cyber operations. Along with Sichuan i-SOON’s comprehensive government ties and technical expertise, these developments contributed to the understanding of Chengdu as a crucial player in international cyber espionage efforts. As a result, we see that Chinese APTs are not only state-supported but also state-corporations.
+
+Espionage Empire
+APT41 is not the only threat group that i-SOON could be associated with. As data and old research are combined, new connections continue to emerge. Data reveals the operational scope of the Chinese Ministry of Public Security. Their tactics bear striking resemblance to those associated with APT groups like Jackpot Panda, Poison Carp, TA428, Mustang Panda, among others.
+A basic connection map, the maps are getting bigger as more data gets analyzed (@BushidoToken)
+
+An example from the data shows how far their espionage can go. In the leaked data, Call Detail Records (CDRs) and Location Based Services (LBS) database records have been found. These threat actors compromise telecommunications companies with the intention of acquiring subscriber metadata to further their intelligence collection objectives.
+
+CDRs serve primarily for postpaid billing and reporting purposes, originating from various network elements and consolidated in mediation systems, which are often targeted. Subscriber data is generated across multiple systems, as evidenced in the leaked data, such as from traditional circuit-switched 2G voice calls.
+
+From an intelligence standpoint, the value lies in identifying communication patterns and locations. LBS data becomes pertinent in this context, as it allows actors to correlate the location details from CDR records with the approximate physical location of the call, determined by the cell tower’s GPS coordinates. This enables them to ascertain who communicated with whom and from where, based on the target’s phone number. In cases where the phone number of interest is unavailable, the actors exploit telcos’ customer databases to obtain the necessary information.
+
+Of course, espionage activities are not limited to this. Malwarebytes’ initial analysis of the data also revealed several other espionage tools used.
+
+A tool that compromises Twitter (now called X) accounts, capable of accessing users’ emails and phone numbers, monitoring in real-time, reading personal messages, and tweeting on behalf of the user.
+Custom Remote Access Trojans (RATs) designed for Windows operating systems, offering a range of malicious capabilities such as managing processes, services, and the registry, remote command execution, keylogging, monitoring file access, gathering system information, remote disconnection, and self-uninstallation.
+An iOS RAT that works on all versions of iOS devices without requiring jailbreak, providing access to hardware details, GPS data, contacts, media files, and live audio recording. This information is from 2020.
+An Android RAT that can intercept messages from Telegram and major Chinese messaging apps like QQ, WeChat, MoMo, and can make itself a system app for durability against system recoveries.
+Portable devices designed to infiltrate networks from within.
+Specialized equipment meant for operatives abroad to maintain secure communication.
+A database for looking up user information such as phone numbers, names, and emails, which can be linked with social media profiles.
+A framework for conducting targeted automatic penetration tests.
+In summary, the leaked data showcases espionage tools utilized by these actors, ranging from compromising social media accounts to conducting targeted penetration tests, emphasizing the multifaceted nature of their operations.
+
+Conclusion
+The i-SOON data leak serves as a reminder of the pervasive threat landscape faced by organizations worldwide. To combat such sophisticated threats, SOCRadar stands as a beacon of defense, leveraging advanced analytics algorithms and a team of skilled analysts to safeguard against data compromises.
+
+Within its Digital Risk Protection module, SOCRadar monitors every surface of the web and provides timely alerts, enabling proactive action against potential fraud. By monitoring the entire web for Personally Identifiable Information (PII) and intellectual property exposures, SOCRadar delivers comprehensive threat intelligence to protect organizations from identity theft and data breaches.
+
+SOCRadar monitors every layer of the web

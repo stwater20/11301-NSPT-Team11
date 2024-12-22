@@ -1,0 +1,25 @@
+China's I-Soon-linked threat group hit 70 organisations in 45 countries
+Group screwed up their opsec, let Trend Micro pull samples, configuration files, and log files from attackers' servers.
+
+The Stack
+March 19, 2024 . 2:07 PM  2 min read
+A Chinese threat group using a previously unseen suite of malware and tentatively linked to the recently hacked private sector company I-Soon has breached at least 70 organisations in 45 countries, including the UK.
+
+That’s according to security researchers at Trend Micro, who said a favoured tactic of the group  – which it dubs Earth Krahang –  has been to brute-force government email addresses and then use an initial compromised email address for extensive spear-phishing.
+
+(Perhaps needless to say, most recipients are far more likely to click on malicious links from an email ostensibly from a colleague, than a “Dear Beloved” from ITsupport911@hackerz.lulz or variants thereof…)  
+
+The group has also been seen building SoftEther VPN servers on compromised public-facing servers to support post-exploitation movement in victims’ networks and was identified exploiting CVE-2023-32315, a CVSS 7.5 command execution vulnerability on the open-source OpenFire XMPP server, as well as CVE-2022-21587; a widely exploited CVSS 9.8 command execution on Oracle Web Applications Desktop Integrator.
+
+See also: A jeweller, sociologist, composer, a mum, go into cybersecurity…
+Arguably more exotically, it has been spotted using a still evolving backdoor called XDealer. As Trend Micro identified, XDealer DLL loaders were “signed with valid code signing certificates issued by GlobalSign to two Chinese companies… one is a human resource company, while the other is a game development company. It’s likely that their certificates were stolen and abused to sign malicious executables,” the company said. 
+
+The Earth Krahang APT also protected their command and control  server using the open-source project RedGuard, “which is basically a proxy that helps Red Teams hinder the discovery of their Cobalt Strike C&C profile.”
+
+Along the way, the group made some operational security errors that let Trend Micro’s whitehats “retrieve multiple files from Earth Krahang’s servers, including samples, configuration files, and log files from its attack tools”, which it used to understand its victims and TTPs. It has shared a handful of IOCs here. Trend Micro did not name any targets in its writeup but highlighted that foreign affairs ministries were a favoured target.
+
+Trend Micro’s timeline would align with a breach of the UK’s Foreign Office in 2022 that forced it to parachute in support with "extreme urgency" from BAE Systems, after it became “the target of a serious cyber security incident, details of which cannot be disclosed…”
+
+Intriguingly, Trend Micro associates the group with Chinese private sector offensive security group I-Soon, which recently saw a huge leak itself. Trend Micro said that it had seen two overlapping independent clusters of activities in the wild and that the leaks had revealed that I-Soon organised its penetration team into two different subgroups.
+
+It cautioned: "We strongly advise organizations to adhere to security best practices, including educating employees and other individuals involved with the organization on how to avoid social engineering attacks, such as developing a healthy skepticism when it involves potential security issues, and developing habits such as refraining from clicking on links or opening attachments without verification from the sender. Given the threat actor’s exploitation of vulnerabilities in its attacks, we also encourage organizations to update their software and systems with the latest security patches..."

@@ -1,0 +1,46 @@
+iSoon Leak Shows Links to Chinese APT Groups
+The Firm Is Operating Alongside RedHotel, RedAlpha and Poison Carp
+Chengdu, Sichuan, where Chinese hacking contractor iSoon has its research and development center
+Chinese hacking contractor iSoon supported three separate cyberespionage operations on behalf of Beijing, said security researchers who analyzed a leaked data trove belonging to the firm.
+
+See Also: OnDemand | 2024 Phishing Insights: What 11.9 Million User Behaviors Reveal About Your Risk
+
+Details of the inside workings of the previously obscure Chinese hacking-for-hire firm emerged in February after an unknown person posted on GitHub documents including spreadsheets, chat logs and marketing materials belonging to the Shanghai-based iSoon, a private company that supports government-led hacking operations (see: Chinese Hacking Contractor iSoon Leaks Internal Documents).
+
+Multiple security researchers who examined over 500 files on the now-disabled GitHub repository attributed the leaked data with high confidence to the Chinese firm, which is one of the many private hacking contractors working for the Chinese government. Separately, an unidentified iSoon employee also confirmed the authenticity of the data to The Associated Press.
+
+In analysis on the iSoon leaked data, researchers at Recorded Future said the documents linked iSoon to Chinese state hacking groups tracked as RedHotel, RedAlpha and Poison Carp.
+
+"The identified links to iSoon indicate that they are likely sub-teams focused on specific missions within the same company," the report says. "Its victims span at least 22 countries, with government, telecommunications, and education representing the most targeted sectors."
+
+These operations supported activities including the targeting of ethnic minorities across Asia for the Chinese Ministry of Public Security, the Ministry of State Security and the People's Liberation Army, the Insikt report says.
+
+The researchers mainly linked iSoon with the advanced persistent groups based on overlap in malware infrastructure as well as shared use of different variants as part of campaigns dating back to 2015.
+
+The most evident case stemmed from a credential phishing infrastructure used by both the Chinese advanced persistent group called RedAlpha and iSoon. RedAlpha, or DeepCliff, is an advanced persistent threat group known to carry out spyware campaigns against Tibetan minorities.
+
+In addition to malware overlap, the researchers found multiple ties between iSoon and a previously identified RedAlpha-linked persona called Liang Guodong, used to register credential phishing domains.
+
+The researchers also found evidence that iSoon shared IP addresses and references to an Android remote access Trojan that has been previously linked to Poison Carp. Poison Carp, also known as Insomnia, previously carried out spyware campaigns against Tibetan minorities.
+
+RedHotel is a prolific espionage group that targets organizations of interest to the Chinese government. Recorded Future established ties with iSoon based on the APT group's widespread use of ShadowPad, a custom malware variant developed and sold by iSoon.
+
+"Finally, Insikt Group observed multiple overlaps between specific victim organizations referenced in the iSoon leak and historically identified RedHotel victims." These included Nepal Telecom, the Ministry of Economy and Finance of Cambodia, and Thai government departments, among others.
+
+"With many private group contractors such as iSoon operating from Chengdu, widely known as the hot spot of hacking in China, the malware in overlap is likely because of the close working environment," said Mei Danowski, a threat intelligence and risk management lead who specializes in geopolitical intelligence. Danowski had been tracking iSoon prior to the February data leak.
+
+She said the iSoon leak may have stemmed from disgruntled employees - some workers complain in the leaked data about the low pay at the firm - or from stiff competition among firms vying for government contracts.
+
+Analysts say iSoon is in an intellectual property tussle with Chengdu 404 over a software development contract dispute. In 2020, the U.S Department of Justice charged seven hackers linked to Chengdu 404 Network Technology for allegedly using ransomware schemes to target dozens of private U.S. companies and for cryptojacking.
+
+Recorded Future's Mark Kelly said the sharing of malware and other capabilities goes beyond just Chengdu and is prevalent across all of China.
+
+"It is likely a product of a complex supply chain within China's cyberespionage ecosystem, where specific malware families and exploits are sold and distributed on a commercial basis across private sector and government entities engaged in state-sponsored cyberespionage activities," said Kelly, who is a threat intelligence analyst at Insikt Group.
+
+Following the widespread media coverage of the iSoon leak, researchers have spotted changes in the infrastructure developed by RedAlpha and RedHotel, Kelly told Information Security Media Group.
+
+"What will be interesting to see is if iSoon continues to be a favored contractor for the Chinese government against high-priority government targets within the Asia-Pacific region."
+
+Recorded Future researchers anticipate the leak will assist U.S. law enforcement agencies in pursuing potential future indictments or sanctions against company personnel.
+
+Danowski said the leak incident may dent iSoon's reputation a little and "may result in lower business deals, but they are most likely to continue their operations as we have seen with Chengdu 404."

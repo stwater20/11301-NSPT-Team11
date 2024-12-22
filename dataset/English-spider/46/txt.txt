@@ -1,0 +1,9 @@
+Massive data leak exposes Chinese infosec vendor's cyberattacks-for-hire
+Documents outline the use of hardware hacking devices, including a malicious power bank designed to surreptitiously upload data into victims' systems
+Image:
+Massive data leak exposes Chinese infosec vendor's cyberattacks-for-hire services
+A massive data leak originating from Chinese cybersecurity vendor I-Soon has exposed the extent of its involvement in global surveillance operations, including targeting countries such as Taiwan, India, Indonesia, Nigeria and the UK.
+The leaked information, comprising approximately 190 megabytes of data, recently surfaced on code-sharing platform GitHub, offering a glimpse into the inner workings of China's state-sponsored cyber apparatus.
+
+I-Soon is a Shanghai-based company believed to be among numerous private contractors aiding the Chinese government in intelligence gathering, hacking and surveillance endeavours.
+

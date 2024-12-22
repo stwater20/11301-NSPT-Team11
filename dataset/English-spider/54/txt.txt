@@ -1,0 +1,58 @@
+iSoon's Secret APT Status Exposes China's Foreign Hacking Machinations
+Chinese government agencies are paying an APT, masked as a legitimate company, to spy on foreign and domestic targets of political interest.
+Source: Rokas Tenys via Shutterstock
+
+A trove of leaked documents has revealed the Chinese government works with private sector hackers to spy on foreign governments and companies, domestic dissidents, ethnic minorities, and more.
+
+On Feb. 16, an anonymous individual with unknown motives pulled back the curtain at Anxun Information Technology, also known as iSoon, a Shanghai-based company best known on the outside for providing cybersecurity training courses.
+
+Behind the scenes, it seems, the company is a hack-for-hire operation servicing government agencies of the People's Republic of China's (PRC), including its Ministry of Public Security, Ministry of State Security, and the People's Liberation Army (PLA).
+
+Analysts have drawn overlaps between iSoon and multiple known Chinese APTs. Adam Meyers, head of counter adversary operations at CrowdStrike, tells Dark Reading that the group maps specifically to Aquatic Panda (aka Budworm, Charcoal Typhoo, ControlX, RedHotel, BRONZE UNIVERSITY).
+Among the more than 500 leaked documents are marketing materials, product manuals, lists of clients and employees, WeChat instant messages between those clients and employees, and much more. Analysts are still pouring through (and corroborating) the material, which, altogether, begins to paint a picture of the Chinese state's primary targets and goals in cyberspace.
+
+Who iSoon Is Hacking
+iSoon's targets have included domestic targets, such as pro-democracy organizations in Hong Kong, and members of ethnic minorities, such as Uyghurs from China's Xinjiang province.
+
+They've spanned agencies of at least 14 governments — in Vietnam alone, for example, the Ministry of Internal Affairs, the Ministry of Economy, the Government Statistics Office, and the Traffic Control Police — and possibly (as yet unconfirmed) the North Atlantic Treaty Organization (NATO).
+
+It has also hacked into private organizations across Asia, from gambling to airline to telecommunications companies.
+
+According to Dakota Cary, consultant at SentinelOne and a nonresident fellow at the Atlantic Council's Global China Hub, there's an important lesson to be drawn from this cyber hit squad's wide range of targets.
+
+"Their previous targeting history should not be indicative of future interest," he says, "because they are competing for bids in a marketplace with many interested parties. At any point their demand signal could change based on who is soliciting their business and for that reason, we should not overly pivot on past activity as an indicator of future performance."
+
+Cheap Deals for Government Exploits
+Documents leaked over the weekend also reveal widely varying rates at which the Chinese government pays iSoon for access to its victims.
+
+Access to the private website of Vietnam's traffic cops, for example, ran up a tab of $15,000, while data from its Ministry of Economy was billed at $55,000. According to The New York Times, certain personal information gleaned from social media accounts were worth up to $278,000 to the government, which has long been known to target individual opponents of the ruling party.
+
+Payouts by target?
+Vietnam Econ Dept 40万
+Vietnam Ministry of Internal Affairs 35万
+Vietnam General Statistics office 35万 pic.twitter.com/WlNg8NbJat
+
+— Dakota Cary (@DakotaInDC) February 19, 2024
+"The price point is a really interesting indicator of the maturity of the market," Cary thinks. Particularly in contrast with the prices fetched in the vulnerability market.
+
+"It definitely says something about supply, that the contract rate for hacking into the Vietnamese Ministry of Economic Affairs is $55,000. There are a number of providers in this contractor-hacker marketplace, such that $55,000 is enough to get a company to go out and do these missions," he says.
+
+Lots of New Information, but Nothing Changes
+iSoon sports an arsenal of fun malicious tools — a Twitter infostealer, pen testing tools, and fancier hardware devices, including special battery tacks and a tool designed to look like a powerbank, both of which serve to pass information from a victim network to the hackers.
+
+Most of what it uses, though, are already known malware within the Chinese APT ecosystem, such as the Winnti backdoor and the ancient PlugX remote access Trojan (RAT).
+
+"There isn't actually that much, from a big picture perspective, that we didn't know before," Meyers says. For him, the most interesting aspect of the leaks were the behind-the-scenes shenanigans — employee complaints about low pay, gambling over mahjong in the office, and the like. "It's really cool to see, but it won't change anything we're doing in the day-to-day."
+
+Hey Boss
+Whats up?
+Playing Mahjong 🀄️
+In the office?
+What, we can't play in the office for money? Boss, Chief Li is cleaning up thousands of Rmb, come join us pic.twitter.com/7VgOqVg22o
+
+— Dakota Cary (@DakotaInDC) February 19, 2024
+For Cary, the takeaway is just how little some organizations fetch in the cyber espionage market.
+
+"The bar cannot be so low for your organization, particularly given how much companies spend on salaries, tooling, etc.," he says. "You want the person having a contract on your company to have to pay a million dollars — to be as high as possible."
+
+"The key lesson is: if they can go after a government ministry for $55,000, what do you think your price is?" he asks.

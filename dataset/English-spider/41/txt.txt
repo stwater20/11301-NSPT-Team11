@@ -1,0 +1,96 @@
+Sichuan Anxun i-soon HQ in Qingyang District, Chengdu
+INDO-PACIFIC
+Shanghai Anxun Insider Information Leak: The Company
+Leaked Documents
+
+On February 16th, an anonymous individual uploaded a file on the online coding repository GitHub that contained internal documents from i-soon, a Chinese cybersecurity company. Specifically, the file, called "Shanghai Anxun Insider Information," contained information about various products and services, such as tools and hackers, the company offers. The file also contains information gathered from the operations as well as employee information. The company, also known as Shanghai Anxun Information Technology Co., Ltd., is a vendor that develops various spy tools and software for Chinese intelligence agencies. This article will be the first in a series that examines the company and the information found in the documents.
+
+Shanghai Anxun Information Technology Co., Ltd.
+
+Reception desk/area of i-soon corporate office
+Reception desk/area of i-soon corporate office
+According to public records, Shanghai Anxun was incorporated in the Minhang District of the city of Shanghai in September 2010 as a Limited Liability Company, LLC.
+
+The company's registered address is Building 2, No. 889 Qixin Road, Minhang District, and its audited address is likely Room 1024, Building 10, No. 318, Rongchang Road, Qianxiang, Luxiang Town, Jinshan District. I-soon's registration authority is the Minhang District Market Supervision and Administration Bureau. Shanghai Anxun is described as a technology-based enterprise that focuses on providing Information Security (InforSec) solutions for various industries. The company also developed branches in 32 provinces and municipalities, such as Beijing, Jiangsu, Zhejiang, and Shandong provinces. Regarding Research and Development (R&D), the company describes itself as having "strong independent R&D capabilities" in various fields of InfoSec. Furthermore, i-soon also created an Advanced Persistent Threat (APT) Defense and Research Laboratory at its Shanghai site.
+
+Sichuan Anxun Information Technology Co., Ltd.
+
+Sichuan Anxun (i-soon) registered/physical site address in Chengdu
+Sichuan Anxun (i-soon) registered/physical site address in Chengdu
+In March 2015, i-soon established a wholly owned subsidiary called Sichuan Anxun Information Technology Co., Ltd., located in Chengdu, Sichuan province. The company has two addresses: its registered address is a building in Qingyang District, while its audited address is a building at Cuifeng International, West High-Tech Zone. The company developed a Product Research and Development Center and established branches in Jiangsu and Yunnan provinces. The company's BOSS Zhipin profile describes the firm as being established by "well-known domestic information security experts." The profile also said that the company developed into an "information security enterprise with strong independent research and development capabilities and strong operating strength."
+
+i-soon business registration information
+i-soon business registration information
+Company Financials
+
+Anxun Information is led by CEO and Chairman of the Board of Directors Wu Haibo. The rest of the members of the c-suite are COO Chen Cheng and CTO Zheng Huadong. However, other members of the board also include Chen Huaping, Huang Shuwei, Lu Jiaqing, and Li Ping. I-soon has a raised capital of 5.534202 million yuan and a reported registered capital of 12.914889 million yuan, according to its Aiqicha profile.
+
+Shanghai Anxun shareholder list
+Shanghai Anxun shareholder list
+12.914889 million is divided between eight investors, with Wu Haibo being the biggest shareholder, owning approximately 39 percent, or 5.111 million yuan. The second biggest entity is Shanghai Nacan Information Technology Partnership, with about 20 percent, or 2.578 million yuan, and the third is Qi An Xin (Beijing) Network Technology Co. Ltd., with around 13 percent, or 1.675 million yuan. COO Chen Cheng owns the fourth largest share of the company, with approximately 10 percent, or 1.2 million yuan. However, one individual, Qiu Haiying, also invested 111,000 yuan, or 0.86 percent, in Shanghai Anxun. Qiu is likely a part of the c-suite or holds another high-level position at i-soon since the only two individuals listed are the CEO and COO. The company also said 80 percent of its total employees occupy various technical fields, such as penetration testing and security research engineers.
+
+Sichuan Anxun company profile
+Sichuan Anxun company profile
+Regarding Sichuan Anxun, the company has a registered capital of 15 million yuan. Wu is also listed as the CEO and Chairman of the Board of Directors for the business. However, the company's Anqicha profile also lists Li Ping as a chairman for Sichuan Anxun, with no one else publicly listed as being part of the subsidiary's board. The profile also said that the company invested in "two foreign companies" previously. Regarding business information, the Sichuan Anxun profile goes more in-depth regarding the products and services it provides. For example, the subsidiary lists educational consulting as one of the services it provides, along with R&D and production of various kinds of 'communications equipment and software.' It also points out that "projects that require approval according to the law" are only allowed after the relevant departments and entities approve them.
+
+Public Presence (Social Media and News)
+
+The company maintained a Weibo and WeChat account that appeared to have been deactivated after the release of the documents. I-soon's Weibo account contained various posts about the company, ranging from awards it received to various tournaments it holds. For example, in October 2023, the company made posts on both accounts announcing that i-soon received its certification in ISO 27001 InfoSec management systems.
+
+Sichuan Anxun's ISO 27001 certification
+Sichuan Anxun's ISO 27001 certification
+Another post showed a thank you letter the company received from the Office of the Cybersecurity and Information Technology Committee of the Chinese Communist Party (CCP) Chengdu Municipal Committee. The letter specifically thanked them for assisting and participating in the 31st World University Summer Games held in Chengdu in August 2023. The letter also highlighted the company's network security capabilities as well.
+
+Post about thank you letter the company received from the Office of the Cybersecurity and Information Technology Committee of the Chinese Communist Party (CCP) Chengdu Municipal Committee
+Post about thank you letter the company received from the Office of the Cybersecurity and Information Technology Committee of the Chinese Communist Party (CCP) Chengdu Municipal Committee
+Another post showed a thank-you letter the company received from the Office of the Cybersecurity and Information Technology Committee of the Chinese Communist Party (CCP) Chengdu Municipal Committee. The letter specifically thanked them for their cybersecurity assistance with the 31st World University Summer Games held in Chengdu in August 2023. The letter also highlighted the company's network security capabilities as well.
+
+In both its Weibo and WeChat accounts, the company made various posts promoting the various games it sponsored or hosted, specifically the "Anxun Cup." The Cup began in 2018 as an effort between the Chinese government, businesses, and universities as a training camp for "high-precision network security talented individuals." The aim of the college and the cup is to discover new techniques and assist in the development of China's InfoSec industry.
+
+Weibo post about the &quot;Anxun Cup&quot; Sixth Cybersecurity Challenge i-soon held in December 2023
+Weibo post about the "Anxun Cup" Sixth Cybersecurity Challenge i-soon held in December 2023
+The most recent Anxun Cup the company held was the 2023 "Anxun Cup" Sixth Cybersecurity Challenge, held in December 2023. Anxun Information also held previous iterations of the Anxun Cups every four to six months, with the last ones held in August and June 2023. However, these competitions were held in conjunction with other cybersecurity organizations.
+
+WMCTF website advertising the WMCTF August 2023 competition
+WMCTF website advertising the WMCTF August 2023 competition
+For example, the last competition the company sponsored was with a cybersecurity team called W&M in August 2023, called WMCTF. W&M's website described the game as a cyber 'capture the flag' competition and said the top three teams will receive cash prizes (1st: 15,000 yuan/$2100 USD, 2nd: 10,000 yuan/$1391 USD, and 3rd: 5,000 yuan/$695 USD). A post on i-soon's WeChat account noted that "thousands of teams" from China, Japan, Russia, and the United States participated in the last four games. Anxun Information assisted and focused on the part of the competition involving the foreign teams since it began partnering with W&M in 2022.
+
+W&amp;M Team home page
+W&M Team home page
+The current version of the website W&M set up for the WMCTF highlighted that i-soon is a company that only sponsors the game and "has no other affiliations." The team's website noted that they are a "joint CTF team" that was formed due to M&M and W&P teams, with most of their members coming from universities or "well-known cybersecurity teams." W&M's mission, as stated on its website, is to "become an influential international cybersecurity team." While the website contains various tabs and buttons for 'government,' 'resources,' and 'contact us,' the only public buttons were the 'achievements,' 'members' and 'blog.'
+
+W&amp;M blog page
+W&M blog page
+The team's achievements page listed the various awards they received from 2019 until 2023. The members page contains profiles for all 23 members that likely require sign-in to view them. The blog contained four of the team's most recent writeups for the competitions it participated in. The last one comes from its participation in the L3HCTF competition, a jeopardy-style online capture the flag game held by the Chinese company L3H Sec. The webpage also has links to the team's social media, such as Discord, QQ, and WeChat, as well as its Github page. The Github page contained documents related to past WMCTF competitions.
+
+W&amp;M's Github page (Photo: Screengrab from Github website)
+W&M's Github page (Photo: Screengrab from Github website)
+Regarding news articles that mention Anxun Information, the company's CTO, Zheng Huadong, also discussed how i-soon assisted the Ministry of Public Security (MPS) during an investigation in September 2022. The MPS invited Sichuan Anxun to assist in the evidence collection phase of an investigation into a "large cross-border gambling group" that operated gambling groups and more than two apps. Sichuan Anxun's participation in the investigation lasted approximately three months, and the company "successfully assisted" the MPS in the operation. The article also discussed how the company combined different tools and technologies into an integrated digital smart defense center. The center improves detection, recording, and traceability of attacks from both a defensive and offensive perspective and can detect ATPs in their starting stage.
+
+The company and Chen appeared in two articles involving two universities, the University of Electronic Science and Technology of China (UESTC) and Chengdu Neusoft University. UESTC co-sponsored and held an iteration of the Axun Cup in February 2021, where the COO Chen attended and awarded offer letters to students who placed or performed well during the game. During the competition's award ceremony, Ma Zheng, UESTC President, awarded Chen with a visiting professor letter.
+
+i-soon COO Chen Cheng with visiting professor letter February 2021 Anxun Cup
+i-soon COO Chen Cheng with visiting professor letter February 2021 Anxun Cup
+In January 2021, Chen, along with six other Chinese cybersecurity companies, met with the Vice President and other senior officials of Chengdu Neusoft University. Chen, the six executives, and the Vice President signed an agreement with Chengdu Neusoft University to jointly build a Cybersecurity Industry College at the university.
+
+Anxun Information COO Chen Cheng and Vice President of Chengdu Neusoft University shaking hands after signing agreement
+Anxun Information COO Chen Cheng and Vice President of Chengdu Neusoft University shaking hands after signing agreement
+In May 2019, Wu and Chen hosted the Deputy Party Secretary and directors from various centers and institutes from the Chengdu branch of the Chinese Academy of Engineering Physics (CAEP) at the Sichuan Anxun site. Chen gave the directors and the delegation a tour of the company's achievements and the products it produces during their visit. The products discussed and displayed during the tour were anonymous anti-tracing walls, WiFi terminal positioning, and various 'countermeasures equipment.' One of the Academy's directors, Li Zhizong, gave Wu and Chen recommendations on how to improve their products, such as paying attention to balancing network attack and defense while innovating technology. The group also held an exchange where Chen went more in-depth regarding the various products and software the company develops.
+
+Chen discussing i-soon's products and company's achievements to directors from the Chengdu branch of the Chinese Academy of Engineering Physics
+Chen discussing i-soon's products and company's achievements to directors from the Chengdu branch of the Chinese Academy of Engineering Physics
+Analysis
+
+Anxun Information's role in China's cybersecurity and cyber operations landscape is likely significant given how large the company's footprint is, especially in Chengdu. For example, the company heavily recruits from UESTC and colleges in the Chengdu area for various engineering jobs since it has extensive links to them. Another example is how the delegation from the Chengdu branch of the Academy of Engineering Physics visited the Sichuan Anxun site in 2019. The visit indicates that the CCP views Sichuan Anxun as very important because of its role in conducting cyber operations against foreign entities.
+
+The visit also highlighted the various kinds of equipment the company produces and confirmed some information found in the leaked documents. Another example is the news article that explained Anxun's role in the MPS investigation regarding a cross-border gambling gang. The section where i-soon's role was discussed was in front of the article, further illustrating the importance the CCP and MPS place on the firm. However, the company's footprint in Shanghai is also significant due to the various awards the company has won for its work in the cybersecurity and InfoSec fields.
+
+Regarding UESTC, it should be noted that it is the alias for CAEP, the same entity that visited the Sichuan Anxun site and examined some of the company's products in 2019. Furthermore, the university has been on the U.S. Government Sanctions List since September 2012 as a separate entity because of its connection to CAEP. Anxun's significant connection to UESTC and CAEP indicates that China views the company as integral to its goals of deepening military-civil fusion as well as continuing its own efforts in cyber and network security. For example, the reason why i-soon hires several UESTC graduates is due to the company molding the students through internships or Axsun College boot camps and competitions.
+
+CAEP also has significant involvement in China's computer science and cybersecurity research and development, which is why they have a deep relationship with i-soon. The company conducts research and product development that would be of interest to CAEP, especially its Unmanned Aerial Vehicle and information and network security divisions. Moreso, Anxun Information also conducts 'freelance' cyber operations against government and private labs to steal information or research that would be of great benefit to CAEP's own R&D efforts. CAEP would also task i-soon to assist in its own espionage efforts to steal sensitive information, along the same lines as the MPS tasked the company to assist in the 2022 investigation.
+
+Furthermore, the company plays a significant role in cultivating and developing new cybersecurity talent in the country through various means. The most significant is how i-soon will use the Anxun Cup competitions it holds to scout and hire talent. Anxun College is also another avenue the company uses to develop and mentor individuals who show promise in the cybersecurity field. The reason why is due to Anxun Information creating courses and materials that individuals could use to further develop their abilities and knowledge.
+
+The college would also allow the i-soon to create an 'incubator' for individuals who are interested in cybersecurity and possibly see it as a career. Chen would likely have played a significant role in recruitment after being awarded a 'visiting professor' letter by UESTC's president in February 2021. However, Anxun Information also sponsors competitions with cybersecurity teams such as W&M to cultivate and find local Chinese talent. The company would also use the competitions as a way to gather intelligence regarding how cybersecurity teams from other countries conduct cyber operations.
+
+Moreover, it is likely that some of i-soon's employees are currently part of the W&M team. The rationale behind this is how the team is made up of individuals from "well-known cybersecurity companies" and how the team is the result of a merger. The phrase there is no connection between W&M and i-soon is likely an attempt to prevent scrunity from extending to the organization and other companies it also partners with.

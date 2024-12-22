@@ -1,0 +1,38 @@
+Leak shows China uses private company to hack citizens and foreign states
+
+	Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+	https://www.ft.com/content/aac3886d-1800-4e62-aa05-e8d4c774541f
+
+	Chinese authorities turned to a private company to hack an array of foreign governments and organisations as well as spy on their own citizens, a large data leak has revealed.
+
+The cache of documents released online, which includes screenshots, price tables and internal messages, collectively reveal much of the inner workings of Shanghai Anxun Information Technology, also known as I-Soon, and the services that the company provides Chinese public security authorities.
+
+The files indicate the group’s employees retrieved material ranging from medical records at a Taiwanese hospital during the coronavirus pandemic to call records from Kazakh telecoms carriers. They show it infiltrated the cyber infrastructure and collected the data of government departments in countries including Malaysia, Thailand and Mongolia.
+
+Two people close to Shanghai Anxun confirmed the documents came from the company, though one of them said some of the claims about its capabilities were exaggerated. The company did not answer calls to its office on Thursday and its website was inaccessible.
+
+Archived versions of Anxun’s website said it had offices in five Chinese cities dedicated to providing “public security solutions” and “strengthening our country”. The company’s experts were specialised in advanced “cyber attacks and defence”, built up from many years of experience in “actual cyber attack and defence projects”, the site said. 
+
+“We have every reason to believe this is the authentic data of a contractor supporting global and domestic cyber espionage operations out of China,” said John Hultquist, chief analyst at Mandiant Intelligence, part of Google Cloud.
+
+Hultquist speculated that the leak, which was released on Microsoft’s GitHub, an online database and software development platform, could have come from a rival intelligence service, a dissatisfied insider at Shanghai Anxun or even another Chinese cyber security contractor.
+
+“We rarely get such unfettered access to the inner workings of any intelligence operation,” he said.
+
+The leaked documents portray Anxun as developing a variety of tools to spy on adversaries and to root out Chinese citizens using banned foreign platforms such as the social media platforms X and Telegram. The company also advertised systems it claimed could hack into Microsoft Outlook and Gmail mailboxes.
+
+The leaked materials described covert tools offered by the company that were designed to look like a power strip or a battery bank, and which could infiltrate local WiFi networks.
+
+Dakota Cary, a China-focused cyber security expert at US company SentinelOne, said the leak revealed “the maturing nature of China’s cyber espionage ecosystem”.
+
+“It shows explicitly how government targeting requirements drive a competitive marketplace of independent contractor hackers-for-hire,” Cary said in a blog post.
+
+Washington and Beijing have regularly accused each other of being engaged in state-sponsored cyber-spying. 
+
+Asked about the leak, China’s foreign ministry said on Thursday it was unaware of the situation. “As a principle, the Chinese side resolutely opposes and legally combats all forms of cyber attacks,” said ministry spokesperson Mao Ning. 
+
+The cache suggests many of Anxun’s customers have been local arms of China’s Ministry of Public Security that used the company’s tools for information gathering. For example, one document claims the public security bureau in the southern city of Haikou paid Rmb220,000 ($31,000) for “data from four email inboxes” in 2018. 
+
+The documents show the public security bureau in the eastern city of Taizhou paid Anxun Rmb2.6mn in 2021 for systems to track users of Telegram and X, then known as Twitter, and of other applications. They portray the government of the central province of Hubei as paying more than Rmb1mn for tools to remotely attack Apple’s iOS systems.
+
+I-Soon offices in Chengdu. A big leak of company documents show it selling its services to public security authorities © Dake Kang/AP

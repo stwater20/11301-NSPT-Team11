@@ -1,0 +1,28 @@
+I-Soon leak: Chinese hackers target India's government offices, corporates
+By
+Akash Pandey
+Feb 23, 2024
+02:37 pm
+What's the story
+A Chinese hacker group with ties to the Beijing government has reportedly targeted key Indian government offices, including the Prime Minister's Office, and corporates like Reliance Industries and Air India.
+Thousands of documents, images, and chat messages linked to I-Soon, a supposed cybersecurity contractor for China's Ministry of Public Security, were anonymously posted on GitHub recently.
+The leaked documents also mention a vast amount of India's immigration data from 2020.
+
+Attack on user data
+User data from EPFO, BSNL, Apollo Hospitals also leaked
+The I-Soon leak lists Indian targets like the Ministry of Finance and the Ministry of External Affairs.
+Around 5.5GB data relating to various offices of the "Presidential Ministry of the Interior," likely referring to the Ministry of Home Affairs, has also been stolen.
+User data from the Employees' Provident Fund Organisation (EPFO), BSNL, and Apollo Hospitals was allegedly compromised.
+The leaked documents also referenced 95GB of India's immigration data from 2020, categorized as "entry and exit points data."
+
+Probe
+I-Soon and Chinese police investigate leak
+I-Soon and Chinese authorities are investigating the leak, with two employees stating that the company held a meeting on February 21 and told to "continue working as normal."
+The leaked data reveals a complex web of secret hacks, spyware operations, and extensive surveillance by Chinese government-linked cyber threat actors.
+The documents, translated from Mandarin, show the hackers' methods, targets, and exploits, which include Indian government and immigration details, NATO, European governments, private institutions, and even China's allies like Pakistan.
+
+You're 66% through
+Insights
+Hacker group targeted countries like Myanmar, Malaysia, Afghanistan, France, Thailand
+In addition to India, the hacker group claims to have targeted countries like Pakistan, Nepal, Myanmar, Mongolia, Malaysia, Afghanistan, France, Thailand, Kazakhstan, Turkey, Cambodia, and the Philippines.
+John Hultquist, chief analyst at Google Cloud-owned Mandiant Intelligence, told The Washington Post that the online dump was "authentic data of a contractor supporting global and domestic cyber espionage operations out of China."

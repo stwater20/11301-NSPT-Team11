@@ -1,0 +1,39 @@
+Opinion | China’s i-Soon data leak exposes risks of outsourcing state spy operations to hackers for hire
+A data dump of files from Chinese firm i-Soon revealed alleged hacking exploits, in an incident reminiscent of Edward Snowden’s case
+Like the West, Beijing is finding out the hard way the perils and advantages of outsourcing to private
+China’s intelligence ministry warns of security risks from open-source information
+Ministry of State Security says improperly handled publicly available data such as social media is a ‘key source’ of intelligence for foreign spies
+China’s top intelligence agency has warned that open-source information poses threats to national security by making sensitive data vulnerable to exploitation by foreign spies.
+Sensitive data that is not properly declassified or assessed for risks can be publicly spread online and “become an important source of open-source intelligence” for overseas spy agencies, the Ministry of State Security (MSS) said in an article posted on its official WeChat account on Sunday.
+Open-source information is publicly available and legally accessible through platforms that provide social media posts, online forums, blog articles, news reports and satellite images, the ministry said, adding that it “often contains large amounts of valuable data and intelligence that can become a key source of cyber espionage”.
+“Overseas espionage agencies can aggregate fragmented and vague data, and through big data analysis, can conduct precise, continuous and stable tracking of targets, extracting valuable intelligence,” the ministry warned.
+
+“This presents greater challenges to information security efforts, requiring stricter and more effective measures to prevent information leaks.”
+
+The MSS highlighted three areas of concern and urged caution during procurement bidding, where sensitive information could be disclosed during the process. It cited construction project cases that involved confidential information and digitisation of confidential archives, which required security measures during procurement to protect national secrets.
+
+Inadequate management and lack of awareness could lead to leaked procurement details, purposes or sensitive technical data, the ministry said.
+
+The MSS added that government agencies should be alert when releasing information to the public, citing cases when some agencies did not follow confidentiality procedures for publishing information, resulting in sensitive documents being published online.
+The ministry also said that people could be posting images on social media that contain confidential information useful to foreign spies.
+
+“Some outdoor enthusiasts share images taken with sensitive, restricted areas as background to gain attention. Such behaviour not only seriously disrupts the management of sensitive areas, but can also be exploited by overseas espionage agencies, endangering national security,” the MSS said.
+
+Since launching a WeChat account in August last year, the MSS has frequently posted alerts about what it says are threats to national security, as part of a public education campaign.
+In June, the agency cited a case of a military technology enthusiast who used a drone with a remote high-definition camera to “illegally photograph” a new type of warship, which was then posted to online military forums.
+After the user was tracked down by authorities, the person was sentenced to a suspended prison term of one year for “illegally obtaining state secrets”.
+
+In Sunday’s article, the ministry said online platforms are responsible for improving management of information flows and content review procedures to ensure compliance in content creation, publishing and reposting.
+
+The ministry also said internet users should be more aware and cautious to avoid exploitation by espionage agencies.
+
+A massive data leak that hit a Chinese cybersecurity firm earlier this month, exposing alleged hacking and intelligence operations, has showcased how even China’s spy agencies rely on private contractors to do its bidding.
+
+On February 16, a total of 571 files allegedly containing hacking exploits and internal conversations from Shanghai Anxun Information Company (i-Soon) appeared on open-source repository GitHub, revealing what The New York Times called “a rare look inside the secretive world of China’s state-backed hackers for hire”.
+
+Like past incidents involving compromising data leaks, this data set took on a life of its own. Despite swift action by GitHub to block access to the leaked data over policy violations, the repercussions will echo across intelligence agencies, media circles, academia and security pundits for the foreseeable future.
+
+According to specialists that have analysed the data dump, it exposes global operations to target entities on behalf of various Ministry of Public Security outposts – as well as Shanghai Anxun’s role in training police across China to hack into foreign databases, in a case reminiscent of Edward Snowden’s revelations.
+
+
+

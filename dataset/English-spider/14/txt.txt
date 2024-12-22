@@ -1,0 +1,28 @@
+DOJ charges seven hackers tied to Chinese government
+Photo: Anna Moneymaker/Getty Images
+
+The U.S. Department of Justice charged seven hackers Monday who are believed to have worked on behalf of the Chinese government's intelligence services.
+
+Why it matters: Law enforcement officials claim the defendants targeted thousands of U.S. and international individuals and companies as part of a series of China-backed hacking operations.
+
+Some of these attacks were successful, resulting in hackers compromising victims' networks, email accounts, cloud storage accounts and call records, the DOJ said in a press release.
+Zoom in: The U.S. is charging the individuals with conspiracy to commit computer intrusions and conspiracy to commit wire fraud.
+
+Each of the charged hackers — Ni Gaobin, Weng Ming, Cheng Feng, Peng Yaowen, Sun Xiaohui, Xiong Wang and Zhao Guangzong — are believed to be based in China, according to the DOJ.
+The charged individuals are believed to be connected to a private Chinese hacking company that Beijing's Ministry of State Security created in 2010 as a front for its operations, per the indictment.
+The U.S. claims the company — known as Wuhan Xiaoruizhi Science & Technology Co. — sent more than 10,000 malicious emails to targets in the last 14 years, with many of these emails purporting to be from legitimate journalists, according to the DOJ.
+Once a target opened the malicious email, information about their location, IP address and network schematics was sent back to the attackers.
+Between the lines: Like other countries, China has long relied on private offensive cyber companies to either assist or carry out its operations.
+
+A trove of documents leaked last month gave the world a rare glimpse inside the relationship between Beijing's government agencies and another company, i-Soon.
+The big picture: The U.S. government has been increasingly declassifying intelligence about China's growing hacking prowess.
+
+In January, top U.S. cyber officials warned Congress about China's willingness to hack American infrastructure to incite societal panic.
+Last month, U.S. cyber agencies published intelligence showing that China had "persistent" access to U.S. critical infrastructure networks for years — marking a divergence from China's history of hacking primarily for espionage purposes.
+Officials and lawmakers have also grown increasingly worried about China's ability to collect data about Americans and to use TikTok, whose parent company is based in Beijing, to push disinformation.
+Yes, but: Monday's indictments are unlikely to result in arrests since China does not have an extradition agreement with the United States.
+
+What's next: The State Department is offering up to $10 million to anyone who has information about the charged individuals and the front company.
+
+The Treasury Department also sanctioned the company and individuals.
+The United Kingdom publicly attributed a cyberattack on the British Electoral Commission and an espionage campaign targeting U.K. lawmakers' email accounts to Chinese government hackers on Monday.

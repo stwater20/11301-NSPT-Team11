@@ -1,0 +1,40 @@
+Leaked documents from Chinese hacking company I-Soon reveal insight into state surveillance
+Portrait of Kinsey CrowleyKinsey Crowley
+USA TODAY
+A trove of leaked documents showed the inner workings of a private Chinese hacking company utilized by the Chinese government, multiple outlets reported.
+
+Two employees with private security contractor I-Soon confirmed with the Associated Press the validity of the documents, which were published publicly online late last week.
+
+As analysts rush to analyze the 190-megabyte leak that includes contracts, presentations and client lists, experts say the dump is significant for providing a rare look at the tactics used by Chinese authorities to monitor people, governments and organizations around the world, the AP reported.
+
+Chinese police are investigating the leak and it was not immediately clear who released the documents.
+FBI Director Christopher Wray:Chinese hackers are preparing to 'wreak havoc' on infrastructure
+
+Here is what to know we know so far about the leak and some early revelations about hackers' tactics and targets:
+
+What is I-Soon?
+I-Soon, also known as Anxun Xinxi, offers information technology services consulting services, according to Crunchbase. The company's website was disabled as of Wednesday.
+The Chinese Ministry of Public Security was at the top of the list of clients on I-Soon's previously available website, along with more than 50 regional security agencies in the country, the AP reported.
+
+The company is based in Shanghai and sells third-party hacking services, the Washington Post reported.
+
+The document leak does not include the data obtained though the hacking services, but rather shows insight on how the operation worked and for whom.
+
+Hacking offerings revealed by leaked documents
+The New York Times, which reviewed the leaked documents, found I-Soon provided the following services:
+
+Accessing the private website of traffic police in Vietnam. A local Chinese government paid $15,000 for this service.
+Software costing $100,000 to operate disinformation campaigns and hack accounts on X.
+Chinese clients could access personal information linked to social media accounts like Facebook for $278,000.
+While the AP said the hacking tools and methods revealed in the documents were not particularly novel, experts still call the revelations significant for its look inside China's state-backed hacking.
+
+
+Targets revealed through hacking provider I-Soon's leaked documents
+According to the Washington Post, I-Soon was contracted to extract data from at least 20 foreign governments and territories, including Taiwan, Hong Kong, India and the U.K. The Post's analysis showed the company had the following targets, many of which resulted in successful data extraction:
+
+India - 95.2 gigabytes of immigration data
+South Korea’s LG U Plus telecom provider - 3 terabyte of call log data
+Taiwan - sample of 459GB of road-mapping data
+Thailand's Foreign Ministry, intelligence agency and Senate
+British Home, Foreign and Treasury offices, and think tanks Chatham House and the International Institute for Strategic Studies
+The New York Times reported that the documents also showed a campaign to closely monitor ethnic minorities in China and online gambling companies.

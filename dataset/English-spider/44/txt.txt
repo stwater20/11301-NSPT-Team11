@@ -1,0 +1,13 @@
+ESET Research Podcast: APT Activity Report Q4 2023–Q1 2024
+The I-SOON data leak confirms that this contractor is involved in cyberespionage for China, while Iran-aligned groups step up aggressive tactics following the Hamas-led attack on Israel in 2023
+In this episode of the ESET Research Podcast, we dissect the most interesting findings of the Q4 2023–Q1 2024 ESET APT Activity Report, uncovering the activity of multiple advanced persistent threat (APT) groups around the world.
+
+Due to the I-SOON data leak, we have been able to identify FishMonger, a group notorious for the cyberattacks against Hong Kong universities back in 2019, as I-SOON. This leak also sheds light on Operation ChattyGoblin, a series of attacks against Southeast Asian gambling companies happening since 2021. I-SOON developed a platform for tracking gambling activity, considered illegal in China, which would allow China’s Ministry of Public Safety to take action against Chinese citizens tracked via the platform.
+
+Another China-aligned group, Mustang Panda, has been expanding its targeting beyond APAC to the US and Europe in the past two years. A notable example is a series of attacks on cargo shipping companies in Norway, Greece, and the Netherlands. Interestingly, the malware was detected on the ships’ systems and in some cases was launched from USB devices.
+
+Iran-aligned groups have stepped up their activity against targets in Israel. This includes either access brokering to sell the access on the market or using it right away for impact attacks with ransomware or wipers. However, the increase in quantity has been accompanied by a decrease in quality and efficacy of the operations and tooling; this primarily applies to MuddyWater. Overall, there has been a clear shift in focus to loud attacks since the Hamas-led attack on Israel in 2023.
+
+For all these topics and more from the ESET APT Activity Report, listen to the latest episode of the ESET Research podcast, hosted by Aryeh Goretsky. This time, he directed his questions to ESET Principal Malware Researcher Robert Lipovský.
+
+For the full report, including other topics such as a psyop campaign against Ukraine, a watering-hole attack on a regional news website about Gilgit-Baltistan, and spearphishing campaigns conducted by North Korea-aligned groups against entities in South Korea, click here.

@@ -1,0 +1,47 @@
+CyberSec Firm i-Soon Leak Exposes The Tools Used By Chinese Hackers
+A cybersecurity company data breach could be extremely damaging as it not only compromises sensitive client information but also corrupts the trust in the company’s ability to safeguard data. 
+
+The incident may also lead to financial losses, legal consequences, and reputation loss.
+Recently, sensitive data from a Chinese IT security firm, “i-Soon” (aka Anxun Information Technology), got leaked on GitHub on Feb. 16, 2024, and this breach includes internal communications, sales materials, and product manuals.
+
+The leaked materials reveal a commercial entity aiding Chinese-affiliated cyber espionage. 
+
+Cybersecurity researchers at Unit 42 find links to past APT campaigns, confirming the authenticity of the data leak with high confidence.
+
+You can analyze a malware file, network, module, and registry activity with the ANY.RUN malware sandbox, and the Threat Intelligence Lookup that will let you interact with the OS directly from the browser.
+CyberSec Firm i-Soon Leak
+Unit 42 uncovers actor-owned infrastructure and possible malware tied to past Chinese threat activities. 
+
+Despite the GitHub takedown, the cybersecurity researchers persist in analyzing the shared data.
+
+The GitHub repo alleges that i-Soon targeted India, Thailand, Vietnam, South Korea, and NATO. While researchers verified these claims and analyzed the mix of chat logs, screenshots, victim data, and documents. 
+
+Dated between November 2018 and January 2023, the conversations involved 37 usernames and discussed various topics from work to software vulnerabilities.
+i-Soon’s leaked online chats (Source – Palo Alto Networks)
+Besides this, the security experts at Unite 42 connect the leaked i-Soon messages to two known Chinese APT campaigns.
+
+Here below, we have mentioned those two campaigns:-
+
+Campaign 1: 2022 Supply Chain Attack
+Campaign 2: 2019 Poison Carp Attack
+The data leaks reveal manuals for software tools tied to Chinese APT groups. While it’s uncertain if i-Soon developed, resold, or used these tools. 
+
+Besides this, the documents confirm shared malware sets among China-attributed threat actors. 
+One manual links to i-Soon and features a tool named ‘Treadstone,’ referenced in a 2019 U.S. indictment against Chengdu 404 employees.
+Treadstone Linux malware control panel (Source – Palo Alto Networks)
+The indictment links Treadstone to Winnti malware and a small hacker group. Considering the 2023 court case, i-Soon may have developed the Treadstone panel. 
+
+Another document details a Chinese APT tool with a whitepaper featuring an admin panel screenshot.
+Administrator panel (Source – Palo Alto Networks)
+The panel displays a public IP and port (TCP://118.31.3.116:44444) which was previously linked by SentinelLabs to a ShadowPad C2 server used by Winnti in August 2021.
+
+This strengthens the connection between i-Soon and Winnti’s tool development.
+Bushidotokens finds data leak links to known threat actors, as the POISON CARP connection via IP 74.120.172.10 ties to Chinese MPS operations. 
+
+The legal dispute links i-SOON to Chengdu 404. The JACKPOT PANDA connection through IP 8.218.67.52 aligns with i-SOON’s focus on online gambling targets.
+
+The data leak offers infrequent insight into China’s private hacking sector, which supplements the U.S. government reports. 
+
+It reveals how Chinese threat actors share or sell tool sets, which complicates the attribution for defenders and analysts.
+
+You can block malware, including Trojans, ransomware, spyware, rootkits, worms, and zero-day exploits, with Perimeter81 malware protection. All are extremely harmful, can wreak havoc, and damage your network.

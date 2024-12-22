@@ -1,0 +1,46 @@
+Leaked Documents Reveal China’s Global Hacking Efforts
+Beijing regularly hires private companies to gather intelligence on foreign governments.
+The exterior of the i-Soon office building is seen in Chengdu, China, on Feb. 20. AP
+My FP: Follow topics and authors to get straight to what you like. Exclusively for FP subscribers. Subscribe Now | Log In
+
+February 22, 2024, 7:00 PM
+ View Comments (0)
+Welcome back to World Brief, where we’re looking at China’s large-scale hacking operations, a shooting attack in the West Bank, and South Africa’s unprecedented judicial impeachment.
+Information Warfare
+Chinese police are investigating the leak of hundreds of documents that detail how a private, Shanghai-based firm carried out large-scale, systematic hacking operations against foreign entities for Beijing’s government. Around 570 documents and related intelligence were posted online to GitHub late last week, though it is unclear who published the information or why.
+
+Together, the documents provide an extraordinarily in-depth look into China’s global espionage efforts and hacking-for-hire network.
+
+“We rarely get such unfettered access to the inner workings of any intelligence operation,” said John Hultquist, chief analyst at cybersecurity firm Mandiant Intelligence. “We have every reason to believe this is the authentic data of a contractor supporting global and domestic cyberespionage operations out of China.”
+
+Beijing employed the Chinese firm i-Soon (known as Anxun in Mandarin) to gather information on foreign governments, companies, and infrastructure. The trove revealed contracts going back eight years to extract data for Chinese state and military uses. Targets were located within at least 20 foreign governments and territories, including Hong Kong, India, Malaysia, South Korea, Taiwan, Thailand, and the United Kingdom. One spreadsheet listed 80 overseas targets that i-Soon appeared to have successfully hacked, and another hinted at the firm selling unspecified data related to NATO in 2022.
+“In information warfare, stealing enemy information and destroying enemy information systems has become the key to defeating the enemy,” one of the documents said.
+
+The leak also showed Chinese state efforts to surveil its own citizens living domestically and abroad. Beijing is highly wary of dissent inside the global diaspora, which it sees as a potential threat to its rule. “For the Chinese Communist Party (CCP), which sees suppressing any threats to its power as a life-and-death struggle, cyberspace is a new battlefield,” Minxin Pei wrote in an excerpt from his new book in Foreign Policy.
+
+China’s government has employed private companies for the past two decades to conduct intelligence-gathering campaigns for state purposes—sometimes referred to as “patriotic hacking.” Rival firms compete for government contracts by promising to provide better, more damaging classified intelligence. Over the past year alone, U.S. officials say, hackers working for China’s military breached computer systems in dozens of key U.S. infrastructure entities.
+What We’re Following
+Gunmen attack Israeli civilians. Israeli officials said three Palestinian gunmen killed at least one Israeli and injured around 13 others in a shooting attack near the A-Zaim checkpoint in the West Bank on Thursday. Two of the suspects were killed on site and the third was arrested after attempting to escape.
+
+Hamas praised the attack as a “natural response to the occupation’s massacres and crimes” in Gaza and the West Bank. Israeli National Security Minister Itamar Ben-Gvir condemned the violence and urged officials to distribute more weapons to Israeli settlers in the region, who are living in the West Bank despite these settlements being illegal under international law.
+
+Israelis’ “right to our lives prevails on their [Palestinians’] freedom of movement,” Ben-Gvir declared during a visit to the scene of the attack.
+
+In Gaza, Israeli forces bombed the southern city of Rafah on Thursday, destroying a mosque and several residential homes. According to the Hamas-run Gaza Health Ministry, at least 97 Palestinians were killed and another 130 wounded in the past 24 hours, though local officials predicted the death toll to be higher. Residents said it was one of the heaviest Israeli assaults on Rafah since Israeli forces rescued two hostages held there nearly two weeks ago. Israeli war cabinet minister Benny Gantz warned last week that Israel will launch a ground offensive in Rafah if Hamas does not release all remaining captives by March 10.
+
+Historic impeachment. South Africa’s parliament impeached one of the nation’s top judges for misconduct late Wednesday. John Hlophe, president of Western Cape province’s high court, allegedly tried to influence two other justices involved in a 2008 arms-deal corruption case against former President Jacob Zuma. An investigation accused Hlophe of trying to sway the results in Zuma’s favor, which Hlophe denies. A total of 305 members voted for Hlophe’s removal and 27 lawmakers voted against it.
+
+The 15-year impeachment delay was due to lengthy investigations and appeals. South African President Cyril Ramaphosa must now sign off on the decision and schedule a date for Hlophe’s removal. Hlophe will be the first South African judge to ever be removed from office since democratic rule began in 1994.
+
+Another judge, Nkola Motata of Gauteng province, was also impeached on Wednesday for disorderly conduct and racial outbursts during a drunken-driving accident in 2007. The president must also sign off on his impeachment despite Motata having already resigned from office.
+
+Weapons deliveries. Iran began shipping hundreds of missiles to Russia early last month, sources told Reuters on Wednesday, and more transfers are expected in the coming weeks. These deliveries include short-range, surface-to-surface ballistic missiles that can strike targets located between 186 and 435 miles away. According to one source, the deal was finalized late last year during security talks in Tehran and Moscow, and the weapons were transported on ships via the Caspian Sea and by plane.
+
+United Nations sanctions on Iranian missile and drone exports expired in October 2023, but the United States and Europe still maintain sanctions on the regime’s missile program. Iran and Russia, meanwhile, are bolstering their defense cooperation as Moscow nears the two-year anniversary of its invasion of Ukraine—signaling growing shared animosity toward the West.
+
+Not only could deepening relations between Moscow and Tehran prolong the war in Ukraine, but it could also “endanger U.S. allies in the Middle East that oppose Iran if the Russian government delivers new forms of military technology and high-end weapons systems” to Tehran, FP’s Robbie Gramer and Amy Mackinnon wrote last year.
+
+Odds and Ends
+For the first time in 1,250 years, women participated in Japan’s “naked festival” on Thursday. Despite what the name suggests, revelers at the festival, which centers on driving away evil spirits by praying for happiness and giving offerings, are not actually nude. The women wore waist-length purple robes and shorts while the men wore loin cloths. Women did not participate in the main event, where a large group of men physically clash together to remove evil forces, but they did take part in chanting and carrying a large bamboo trunk as an offering.
+
+Correction, Feb. 23, 2024: A previous version of this article misstated the vote tally for Hlope’s impeachment as well as the consequences of Motata’s impeachment. It has also been updated to clarify the president’s role in implementing the impeachment decisions.

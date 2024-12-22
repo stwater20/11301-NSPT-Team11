@@ -1,0 +1,19 @@
+Over 95 GB of Indian immigration data stolen by China-linked hacking group
+Files leaked on GitHub include data not only from India but from at least 80 overseas targets, including Vietnam, Thailand and Taiwan
+Several Chinese firms are hacking data from other countries and supplying it to the country's government. This includes Indian data too.
+
+Documents leaked online by I-Soon, a Chinese hacking firm, showed that at least 95.2 gigabytes of immigration data from India had been stolen by them, according to a report by The Washington Post (WaPo). This includes national and foreign passengers' flight and visa details, another by the New York Times (NYT) added.
+
+I-Soon is called Auxun in China. It is headquartered in Shanghai and sells third-party hacking and data-gathering services to Chinese government bureaus, security groups and state-owned enterprises, the WaPo report added.
+Over 570 files, images and chat logs were posted to GitHub last week, and these came from iSoon. These files included data not only from India but from at least 80 overseas targets. It also had data from telecommunications firms in Hong Kong, Kazakhstan, Malaysia, Mongolia, Nepal and Taiwan.
+
+"iSoon clients also requested or obtained infrastructure data, according to the leaked documents. The spreadsheet showed that the firm had a sample of 459 GB of road-mapping data from Taiwan, the island of 23 million that China claims as its territory," the report added.
+READ: EPFO data breach in 2018 linked to Chinese cyber agency, probe reveals
+Most of the data was from Asia. However, it also has data from the North Atlantic Treaty Organisation (Nato).
+According to NYT, I-Soon also claimed to have access to internal email services or intranet access for multiple Southeast Asian government ministries, including Malaysia's foreign and defence ministries and Thailand's national intelligence agency.
+
+The leaked data also has personal data from accounts on platforms like Telegram and Facebook.
+
+The reports said that I-Soon is only one of the "hundreds of private companies" that help the Chinese government by offering espionage services.
+
+It is unclear how much the data is sold for, but reports suggest that I-Soon gave the Chinese government access to the private website of traffic police in Vietnam for $15,000. For personal data from social media sites, it was billed $278,000. 

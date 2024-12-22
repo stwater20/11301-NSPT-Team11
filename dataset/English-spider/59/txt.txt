@@ -1,0 +1,50 @@
+Massive data leak shows Chinese tech firm hacked into foreign government systems, Nato
+BEIJING – A Chinese tech security firm was able to breach foreign government systems, infiltrate social media accounts and hack into personal computers, a massive data leak analysed by experts this week has revealed.
+
+The trove of documents from I-Soon, a private company that competed for Chinese government contracts, showed that its hackers compromised more than a dozen governments, according to cyber-security firms SentinelLabs and Malwarebytes.
+
+I-Soon also breached “democracy organisations” in China’s semi-autonomous city of Hong Kong, universities and the Nato military alliance, SentinelLabs researchers wrote in a blog post on Feb 21.
+The leaked data, the contents of which AFP was unable to immediately verify, was posted last week on online software repository GitHub by an unknown individual.
+
+“The leak provides some of the most concrete details seen publicly to date, revealing the maturing nature of China’s cyber-espionage ecosystem,” SentinelLabs analysts said.
+
+I-Soon was able to breach government office networks in India, Thailand, Vietnam and South Korea, among others, Malwarebytes said in a separate post on Feb 21.
+
+I-Soon’s website was not available on Feb 22, although an Internet Archive snapshot of the site from Feb 20 says it is based in Shanghai, with subsidiaries and offices in Beijing, Sichuan, Jiangsu and Zhejiang.
+The firm did not reply to a request for comment.
+
+Asked by AFP on Feb 22 whether Beijing contracted hackers, China’s Foreign Ministry said it was “not aware” of the case.
+
+“As a principle, China firmly opposes all forms of cyber attacks and cracks down on them in accordance with law,” spokeswoman Mao Ning said.
+Hacks for contracts
+The leak contains hundreds of files showing chat logs, presentations and lists of targets.
+
+AFP found what appeared to be lists of Thai and British government departments among the leaks, as well as screenshots of attempts to log in to an individual’s Facebook account.
+
+Other screenshots showed arguments between an employee and a supervisor over salaries, as well as a document describing software aimed at accessing a target’s Outlook e-mails.
+
+“As demonstrated by the leaked documents, third-party contractors play a significant role in facilitating and executing many of China’s offensive operations in the cyber domain,” SentinelLabs analysts said.
+
+In one screenshot of a chat app conversation, someone describes a client request for exclusive access to the “foreign secretary’s office, foreign ministry’s Asean office, prime minister’s office, national intelligence agency” and other government departments of an unnamed country.
+Analysts who examined the files said the company also offered potential clients the ability to break into accounts of individuals on social media platform X – monitoring their activity, reading their private messages and sending posts.
+
+It also laid out how the firm’s hackers could access and take over a person’s computer remotely, allowing them to execute commands and monitor what they type.
+
+Other services included ways to breach Apple’s iPhone and other smartphone operating systems, as well as custom hardware, including a powerbank that can extract data from a device and send it to the hackers.
+
+Xinjiang ties
+Analysts said the leak also showed I-Soon bidding for contracts in China’s north-western region of Xinjiang, where Beijing stands accused of detaining hundreds of thousands of mostly Muslim people as part of a campaign against alleged extremism. The United States has called it a genocide.
+
+“The company listed other terrorism-related targets the company had hacked previously as evidence of its ability to perform these tasks, including targeting counter-terrorism centres in Pakistan and Afghanistan,” SentinelLabs analysts said.
+
+The leaked data also revealed the fees that hackers could earn, they said, including US$55,000 (S$74,000) from breaking into a government ministry in Vietnam.
+
+A cached version of the company’s website showed that the firm also ran an institute dedicated to “implementing the spirit” of President Xi Jinping’s “important instructions” on developing cyber-security education and expertise.
+
+The Federal Bureau of Investigation has said China has the biggest hacking programme of any country.
+
+Beijing has dismissed the claims as “groundless” and pointed to the US’ own history of cyber espionage.
+
+Mr Pieter Arntz, a researcher at Malwarebytes, said the leak would likely “rattle some cages at the infiltrated entities”.
+
+“As a result, it could possibly cause a shift in international diplomacy and expose the holes in the national security of several countries.” AFP

@@ -1,0 +1,50 @@
+China’s Hacker Network: What to Know
+Documents leaked on a public website show that China is hiring private hackers to obtain sensitive information from foreign companies and governments.
+I-Soon, a security firm that is part of a network of spies for hire working closely with Beijing, targeted telecommunications firms, online gambling companies and local governments throughout Asia. Credit...Dake Kang/Associated Press
+Leaked documents posted online last week show how the Chinese government is working with private hackers to obtain sensitive information from foreign governments and companies.
+
+The hackers worked for a security firm called I-Soon, part of a network of spies for hire working closely with Beijing.
+
+The leak showed how China’s top surveillance agency, the Ministry of Public Security, has increasingly recruited contractors to attack government targets and private companies as part of a cyberespionage campaign in Asia. The leak is likely to stoke fears among leaders in Washington who have warned against such attacks in the United States.
+
+What information was revealed?
+I-Soon targeted telecommunications firms, online gambling companies and local governments throughout Asia. Its hackers were able to get private information including:
+
+records from a Vietnamese airline, with the identities of travelers.
+
+personal information from accounts on platforms like Telegram and Facebook.
+
+access to the private website of traffic police in Vietnam.
+
+software that helped run disinformation campaigns and hack accounts on X.
+
+The leak also included internal discussions at I-Soon, reflecting a grinding workplace and efforts by the company to market its services to the government. I-Soon is one of hundreds of private companies that support China’s hacking efforts through the sale of espionage services and stolen data.
+
+How was the information sold?
+I-Soon, a private security contractor, billed the Chinese government as little as $15,000 for access to the private website of traffic police in Vietnam and as much as $278,000 for access to personal information from social media sites. China has a long history of suppressing dissent among its citizens through surveillance.
+The leaks were posted publicly on GitHub, a software platform where programmers share code. Vital information has been leaked on the forum before, including source code from X.
+
+Cybersecurity experts interviewed by The New York Times said the documents appeared to be authentic. It is not clear who leaked the information or what their motives were.
+
+What does this mean for the United States?
+The leaked materials do not pertain to any American entities, but they offer a rare look into how China’s Ministry of State Security is leaning on private companies to execute its spying operations.
+
+U.S. officials have long accused China of leading breaches of American companies and government agencies, warnings that have heated up as tech firms rush to develop artificial intelligence. The increased scrutiny has led Silicon Valley venture capitalists to pull back on investing in Chinese start-ups.
+
+Editors’ Picks
+
+Is the Awkward ‘Diversity Era’ of Hollywood Behind Us?
+
+Grooms, the Unsung Heroes of the Horse World
+
+How to Choose an All-Inclusive Resort
+In 2013, a Chinese army unit was revealed to be behind hacks of several U.S. companies. In 2015, a data breach apparently carried out by Chinese hackers obtained a trove of records from the U.S. Office of Personnel Management, including personal information from millions of government employees.
+
+Last weekend in Munich, the F.B.I. director, Christopher Wray, said that hacking operations from China were directed against the United States at “a scale greater than we’d seen before,” and ranked it among America’s chief national security threats.
+
+What are the repercussions for China?
+Despite the embarrassment that the leak of hacked documents might present, few experts expect China to halt its hacking, given the information it can offer.
+
+“I would not expect such activities to stop as a result, only more efforts to prevent future leaks,” said Mareike Ohlberg, an Indo-Pacific relations specialist at the German Marshall Fund of the United States.
+
+David E. Sanger and Keith Bradsher contributed reporting.

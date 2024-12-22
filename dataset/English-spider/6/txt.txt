@@ -1,0 +1,42 @@
+The leak also reveals how the hacking tools target iOS and Android mobile phones, highlighting that the iOS Remote Access Trojan (RAT) works without jailbreaking, while the Android devices can be used for intercepting messages from well-known apps and recording audio in real-time pose thus posing serious privacy risks.
+
+The iOS version of the Remote Access Trojan (RAT) works on all iOS devices without needing jailbreaking. Jailbreaking refers to using a hack to get past the manufacturer's restrictions on a device. It can access hardware details, GPS data, contacts, media files, and even record audio in real time.
+
+On Android devices, messages from popular Chinese chatting apps QQ, WeChat, Telegram, and MoMo can be dumped, and is also capable of elevating the system app for persistence against internal recovery.
+About 95GB of India’s immigration details from 2020, described as “entry and exit points data”, were also referred to in the leaked documents.
+A Chinese state-linked hacker group boasted of targeting key offices of the Indian government, including the “PMO” (likely the Prime Minister’s Office), and businesses like Reliance Industries Limited and Air India, according to leaked data reviewed by India Today’s Open-Source Intelligence (OSINT) team.
+
+Thousands of documents, images, and chat messages associated with iSoon — an alleged cybersecurity contractor with China’s Ministry of Public Security (MPS) — were posted anonymously on GitHub over the weekend. 
+
+iSoon and Chinese police launched an investigation to ascertain how the files were leaked, two employees of the contractor told the Associated Press (AP). One of the employees said iSoon held a meeting on February 21 about the leak and were told it wouldn’t affect business too much and to “continue working as normal”, the news agency reported.
+
+The leak unveils a complex network of clandestine hacks, spyware operations, and elaborate surveillance by Chinese government-linked cyber threat actors. 
+The leak unveils a complex network of clandestine hacks
+A machine-translated version of the leaked internal documents, originally in Mandarin, shows attackers documenting their modus operandi, targets, and exploits. Targets ranged from NATO, European government, and private institutions to Beijing’s allies like Pakistan. 
+Although the leak mentions targets of the cyberespionage operation, India Today didn’t find samples of the stolen data itself in the leak. It also does not specify the extent of penetration and duration of attacks on individual targets in all cases. 
+
+Indian targets
+
+The leaked data mentions Indian targets like the Ministry of Finance, the Ministry of External Affairs, and the “Presidential Ministry of the Interior”, which likely refers to the Ministry of Home Affairs. The advanced persistent threat (APT) or hacker groups retrieved 5.49GB of data relating to various offices of the “Presidential Ministry of the Interior” between May 2021 and October 2021, at the height of India-China border tensions.
+
+“In India, the main work targets are the ministry of foreign affairs, ministry of finance, and other relevant departments. We continue to track this area in depth and can tap its value in the long term,” reads the translated India section of what appears to be an internal report prepared by iSoon. 
+User data of state-run pension fund manager, the Employees' Provident Fund Organisation (EPFO), state telecom operator Bharat Sanchar Nigam Limited (BSNL), and private healthcare chain Apollo Hospitals were also allegedly breached. Air India’s stolen data pertains to details of daily check-in by passengers. 
+
+About 95GB of India’s immigration details from 2020, described as “entry and exit points data”, were also referred to in the leaked documents. Notably, 2020 saw an escalation in India-China relations following the Galwan Valley clash.
+
+“India has always been a huge focus of the Chinese APT side of things. The stolen data naturally includes quite a few organisations from India, including Apollo Hospital, people coming in and out of the country in 2020, the Prime Minister's Office, and population records,” Taiwanese researcher Azaka, who first highlighted the GitHub leak, told India Today.  
+
+John Hultquist, the chief analyst at Google Cloud-owned Mandiant Intelligence, was quoted by the Washington Post saying the online dump was “authentic data of a contractor supporting global and domestic cyber espionage operations out of China”. “We rarely get such unfettered access to the inner workings of any intelligence operation,” he said. 
+
+ 
+
+Friends to foes — everyone is on China’s target
+Apart from India, Beijing also allegedly targeted its “all-weather friend” Pakistan. Other apparent targets include Nepal, Myanmar, Mongolia, Malaysia, Afghanistan, France, Thailand, Kazakhstan, Turkiye, Cambodia, and the Philippines, among others.
+
+As per the leaked dataset, as much as 1.43GB of postal service data from the “Anti-Terrorism Centre” in Pakistan’s Punjab province was obtained by the Chinese hacker group between May 2021 and January 2022. The documents also indicate that the Chinese government sanctioned snooping on Pakistan’s Ministry of Foreign Affairs and telecommunication company Zong.
+
+Huge amounts of data were also allegedly stolen from Nepal Telecom, Mongolia’s Parliament and police departments, a French university, and Kazakhstan's pension managing authority. The hackers also allegedly accessed the official systems of the Tibetan government-in-exile and its domain, Tibet.net.
+
+For years, hacking groups linked to China’s Communist Party, like Mustang Panda or APT41, have been running malicious campaigns, targeting organisations and countries including the US to gather intelligence. The US recently launched an operation to fight a pervasive Chinese hacking operation that compromised thousands of internet-connected devices.
+
+This isn’t the first time China has been in the spotlight for cyber attacks in India. In 2022, China-linked hackers reportedly targeted seven Indian power hubs. Threat actors attempted to get into India’s power infrastructure in 2021 as well. 

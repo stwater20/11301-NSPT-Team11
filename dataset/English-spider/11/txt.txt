@@ -1,0 +1,27 @@
+Leaked documents show how firm supports Chinese hacking operations
+Documents that appear to belong to the offensive security firm I-SOON provide a rare window into the world of Beijing's hackers for hire.
+President Xi Jinping of China is seen on a program from the CGTN archive as it plays on a computer monitor on February 04, 2021 in London, England. (Photo by Leon Neal/Getty Images)
+Atranche of documents posted to GitHub five days ago reveals that Chinese contractors working to support Beijing’s hacking operations are a lot like office drones everywhere but with a twist: They complain about the low pay, gamble in the office and also help to break into the computer systems of foreign governments.
+
+Since their release over the weekend, the trove of documents from a Chinese offensive security company, I-SOON, have stunned researchers, who say the set of contracts, product manuals and employee lists leaked online provides an unprecedented view of how private companies support China’s increasingly aggressive hacking operations.
+
+“The leak provides some of the most concrete details seen publicly to date, revealing the maturing nature of China’s cyber espionage ecosystem,” SentinelLabs’ Dakota Cary and Aleksandar Milenkoski wrote in an analysis of the leak. “It shows explicitly how government targeting requirements drive a competitive marketplace of independent contractor hackers-for-hire.”
+
+I-SOON is a private Chinese information security company that contracts with many Chinese-government agencies, including the Ministry of Public Security, Ministry of State Security and the People’s Liberation Army, according to Cary and Milenkoski. Alongside employees complaining about low pay and gambling over mahjong in the office, the material appears to document the company’s compromise of at least 14 governments, pro-democracy organizations in Hong Kong, universities and NATO.
+While the authenticity of the documents has not been confirmed, researchers who have examined the leak believe the documents to be real. On Wednesday, the Associated Press reported that Chinese authorities are investigating the leak.
+
+Analysts with the Taiwan-based TeamT5 cybersecurity firm said the leaked documents support their longstanding analysis that “China’s private cybersecurity sector is pivotal in supporting China’s APT attacks globally.”
+
+The TeamT5 researchers have been tracking I-SOON since 2020 and “assessed these documents as highly credible,” the researchers said.
+
+“We can see how i-SOON engaged with China’s national security authorities, the details of i-SOON’s products and financial problems. More importantly, we spotted documents detailing how i-SOON supported the development of the notorious Remote Access Trojan (RAT), ShadowPad. So, we hold high confidence that these leaked documents are authentic.”
+
+The material also confirms prior TeamT5 findings highlighting the company’s work with the Chinese government to target online gambling, as well as the company’s own money-driven ransomware campaigns, which are likely being conducted because “China’s national security cut the budget to pay these private companies.”
+
+Advertisement
+
+
+Bolstering the case that I-SOON is intimately connected with Chinese security organs, open source researchers have pointed out that the leaked documents appear to include processed call detail records and location-based services.
+
+I-SOON did not immediately respond to a request for comment sent to an email address found on an archived version of the company’s website. The company’s site was inaccessible Wednesday evening.
+Home page of the I-SOON website, captured Feb. 19, 2024 and stored on the Internet Archive. The site is currently inaccessible (CyberScoop).

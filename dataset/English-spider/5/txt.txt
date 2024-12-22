@@ -1,0 +1,36 @@
+Modified power banks, routers and USB ports; I-Soon leaks reveal disguised Chinese spy tools
+Leaked documents reveal how spy tools were modified and disguised as everyday utility gadgets by a cyber firm working for the Chinese police.
+In Short
+Chinese cyber firm I-Soon allegedly sells modified electronics as hacking devices
+Devices include power banks, internet routers, USB ports, used for cyber espionage
+Hacking tools target iOS and Android mobile phones, pose serious privacy risks
+An unsuspecting power bank seen at your workplace could be a hacking device installed on behalf of a foreign government, a pattern emerging out of the recently leaked documents linked to a Chinese cyber firm indicates.
+
+The Chinese state-linked group I-Soon was seen offering modified versions of popular power banks, internet routers and USB ports as “attack systems” to its potential clients, according to the documents reviewed by India Today.
+Once installed and connected to a local network, these devices could be used to eavesdrop on information and steal intellectual property and other sensitive data.
+The I-Soon network was likely employed by the Chinese Communist Party (CCP) for cyberespionage on foreign countries and businesses that included key offices of the Indian government and businesses.
+
+Did Chinese firm hack Indian government offices?
+In leaked documents, a Chinese government cybersecurity vendor claimed to have targeted several ministries and businesses.
+
+Additionally, the trove of leaked documents posted online last week offers a rare look into the secretive world of China’s state-backed hackers for hire. The cache of more than 517 leaked files from the Chinese firm I-Soon was posted on the developer website GitHub.
+
+One of the glaring anomalies that pop up through the leaks is the display of modified hardware devices that are not commonly associated with a foreign cyberespionage network.
+Leaked documents indicate that everyday electronics, such as portable chargers, USB ports and Wi-Fi routers, are being outfitted with a covert electronic module known as the Wi-Fi proximity attack system. This technology allows them to deploy Trojan Horses, launching malware attacks on targeted Android phones when connected to Wi-Fi.
+
+Increasingly, devices manufactured in China, including power banks, USB ports, and Wi-Fi routers, are being utilised to disseminate malware, particularly those of unverified origins. Once a device is compromised, the infiltrated malware is capable of harvesting personal data, such as contacts, photos, and videos.
+
+The operational details emerging from the leak provide a glance into the inner workings of a cyber espionage campaign. The documents outline a structured approach to cyber operations, from targeted penetration testing frameworks to specialised equipment for operatives working abroad.
+
+As per the documents, vetted by our Open-source intelligence team, the company’s leaked product whitepapers boast the methodologies to steal data without detection.
+
+For this, the hackers relied on both the hardware and online methods of stealing information like malware links sent in Twitter accounts, emails, custom RATs and hardware exploitation. The machine-translated version of the leaked documents from Mandarin shows the use of X’s(formerly Twitter) Infostealer Malware, which operates by enticing users to click on a malicious link. Once clicked, the malware gains access to the target's Twitter account, enabling it to manipulate account settings and permission.
+"The user obtains the evidence collection link through the platform, and by attaching to the target person, placing the link, and inducing the target to click on the evidence collection link. After the click is successful, the target Twitter account authority can be obtained, and the countermeasure function of the target Twitter account can be achieved through Twitter. The public opinion guidance and control system obtains the comprehensive permission of the target Twitter account to publish tweets, view private messages, comment on tweets, forward tweets, like tweets, etc. If there is no need to monitor the target Twitter account, the target can be deleted from the platform."
+Materials included in the leak that promoted I-Soon’s hacking techniques described technologies built to break into Outlook email accounts and procure information like contact lists and location data from Apple’s iPhones.
+
+There were mentions of custom RATs (remote access Trojans) being used to open a backdoor and enable administrative control over the victim’s computer. Once downloaded into the host’s system, it can be used to compromise additional vulnerable computers, establishing a botnet. I-Soon also credits itself with developing a user lookup database called Skywalker data query platform which lists target users' data, including phone number, name, and email, and can be correlated with social media accounts.
+.The leak also reveals how the hacking tools target iOS and Android mobile phones, highlighting that the iOS Remote Access Trojan (RAT) works without jailbreaking, while the Android devices can be used for intercepting messages from well-known apps and recording audio in real-time pose thus posing serious privacy risks.
+
+The iOS version of the Remote Access Trojan (RAT) works on all iOS devices without needing jailbreaking. Jailbreaking refers to using a hack to get past the manufacturer's restrictions on a device. It can access hardware details, GPS data, contacts, media files, and even record audio in real time.
+
+On Android devices, messages from popular Chinese chatting apps QQ, WeChat, Telegram, and MoMo can be dumped, and is also capable of elevating the system app for persistence against internal recovery.
