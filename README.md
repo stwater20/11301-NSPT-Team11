@@ -21,9 +21,9 @@ For more details about the architecture and implementation, please refer to the 
 
 ## Code References
 
-user_script folder: Contains user scripts utilized in data processing and analysis.
+used_scripts folder: Contains user scripts utilized in data processing and analysis.
 
-ocr folder: Includes scripts and configurations specifically for OCR (Optical Character Recognition) tasks.
+OCR folder: Includes scripts and configurations specifically for OCR (Optical Character Recognition) tasks.
 
 ## Images
 
@@ -42,7 +42,6 @@ AWS SDK
 OpenCV
 
 Tesseract OCR
-
 
 
 
